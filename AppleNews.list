@@ -2,9 +2,9 @@
 USER-AGENT,AppleNews*,United States
 USER-AGENT,com.apple.news*,United States
 HOST,gspe1-ssl.ls.apple.com,United States
-USER-AGENT,News*
-HOST,apple.comscoreresearch.com
-HOST,news-client.apple.com
-HOST,news-edge.apple.com
-HOST,news-events.apple.com
-HOST-SUFFIX,apple.news
+USER-AGENT,News*,United States
+HOST,apple.comscoreresearch.com,United States
+HOST,news-client.apple.com,United States
+HOST,news-edge.apple.com,United States
+HOST,news-events.apple.com,United States
+HOST-SUFFIX,apple.news,United States
