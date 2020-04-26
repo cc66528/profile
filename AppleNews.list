@@ -7,6 +7,6 @@ HOST,news-client.apple.com,United States
 HOST,news-edge.apple.com,United States
 HOST,news-events.apple.com,United States
 HOST-SUFFIX,apple.news,United States
-HOST,play.itunes.apple.com,US
-HOST,play-cdn.itunes-apple.com.akadns.net,US
+HOST,play.itunes.apple.com,United States
+HOST,play-cdn.itunes-apple.com.akadns.net,United States
 
