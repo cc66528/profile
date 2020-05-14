@@ -1,0 +1,6 @@
+# > Disney Plus
+DOMAIN,dss.map.fastly.net
+DOMAIN,disneyplus.com.ssl.sc.omtrdc.net
+DOMAIN-SUFFIX,dssott.com.c.footprint.net
+DOMAIN-SUFFIX,dssott-cds.s.llnwi.net
+DOMAIN-SUFFIX,dssott.com.akamaized.net
