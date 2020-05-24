@@ -10,6 +10,8 @@ ChinaMedia,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/
 ChinaMedia,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Tencent%20Video.list
 ChinaMedia,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Youku.list
 
+GlobalMedia,https://raw.githubusercontent.com/hardy-one/prefini/master/ruleset/DisneyPlus.list
+
 GlobalMedia,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/ABC.list
 GlobalMedia,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Abema%20TV.list
 GlobalMedia,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Amazon.list
