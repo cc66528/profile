@@ -1,0 +1,40 @@
+custom:
+  enable_rule_generator: true
+  overwrite_original_rules: true
+
+  proxy_groups:
+  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/groups.txt"}
+
+  rulesets:
+  - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"group: "DIRECT"}
+  - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list", group: "DIRECT", interval: 86400}
+  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/SpecialMedia.list"}
+  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/ChinaMedia.list"}
+  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/GlobalMedia.list"}
+  - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Telegram.list", group: "Telegram", interval: 86400}
+  - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Speedtest.list", group: "Proxy", interval: 86400}
+  - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list", group: "Proxy", interval: 86400}
+  - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list", group: "DIRECT", interval: 86400}
+  - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list", group: "Apple", interval: 86400}
+  - {ruleset: "clash-ipcidr:https://ruleset.dev/clash_domestic_services_ips", group: "DIRECT", interval: 86400}
+  - {ruleset: "[]FINAL", group: "Final"}
+
+#  clash_rule_base: base/forcerule.yml
+#  surge_rule_base: base/surge.conf
+#  surfboard_rule_base: base/surfboard.conf
+#  mellow_rule_base: base/mellow.conf
+#  quan_rule_base: base/quan.conf
+#  quanx_rule_base: base/quanx.conf
+
+#  rename_node:
+#  - {import: snippet/rename.txt}
+
+#  add_emoji: true
+  remove_old_emoji: true
+#  emojis:
+#  - {import: snippets/emoji.txt}
+
+#  include_remarks: []
+#  exclude_remarks: []
+#  template_args:
+#  - {key: clash.dns.port, value: 5353}
