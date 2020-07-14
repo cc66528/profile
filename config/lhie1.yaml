@@ -12,7 +12,7 @@ custom:
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/ChinaMedia.list"}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/GlobalMedia.list"}
   - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Telegram.list", group: "Telegram", interval: 86400}
-  - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Speedtest.list", group: "Proxy", interval: 86400}
+  - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Speedtest.list", group: "DIRECT", interval: 86400}
   - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list", group: "Proxy", interval: 86400}
   - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list", group: "DIRECT", interval: 86400}
   - {ruleset: "surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list", group: "Apple", interval: 86400}
