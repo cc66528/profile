@@ -20,5 +20,5 @@ Korea`select`(韩国)
 Britain`select`(英国)
 American`select`(美国)
 Others`select`^(?!.*(香港|中港|澳门|台湾|新加坡|日本|韩国|英国|美国|网易云)).*$
-HK IEPL`load-balance`(香港高级 IEPL)`http://www.gstatic.com/generate_204`300
-HK IPLC`load-balance`(香港高级 IPLC)`http://www.gstatic.com/generate_204`300
+HK IEPL`load-balance`(香港高级 IEPL)`http://www.gstatic.com/generate_204`300,,100
+HK IPLC`load-balance`(香港高级 IPLC)`http://www.gstatic.com/generate_204`300,,100
