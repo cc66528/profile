@@ -1,12 +1,12 @@
-Proxy`select`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]DIRECT
-Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others
-Telegram`select`[]Singapore`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]DIRECT
+Proxy`select`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]HK IEPL`[]HK IPLC`[]DIRECT
+Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]HK IEPL`[]HK IPLC
+Telegram`select`[]Singapore`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]HK IEPL`[]HK IPLC`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others
-Netflix`select`[]HongKong`[]Proxy`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]DIRECT
-YouTube`select`[]HongKong`[]Proxy`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others
-GlobalMedia`select`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]HK IEPL`[]HK IPLC
+Netflix`select`[]HongKong`[]Proxy`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]HK IEPL`[]HK IPLC`[]DIRECT
+YouTube`select`[]HongKong`[]Proxy`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]HK IEPL`[]HK IPLC`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]HK IEPL`[]HK IPLC`[]Others
+GlobalMedia`select`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]HK IEPL`[]HK IPLC`[]DIRECT
 
 ;AdBlock`select`[]REJECT`[]DIRECT
 Final`select`[]Proxy`[]DIRECT
