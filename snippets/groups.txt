@@ -1,27 +1,19 @@
-Proxy`select`[]HongKong`[]HK-IPLC`[]HK-IEPL`[]Macao`[]Taiwan`[]Singapore`[]SG-IPLC`[]Japan`[]JP-IPLC`[]Korea`[]Britain`[]American`[]US-IPLC`[]Others`[]DIRECT
-Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]HK-IPLC`[]HK-IEPL`[]Macao`[]Taiwan`[]Singapore`[]SG-IPLC`[]Japan`[]JP-IPLC`[]Korea`[]Britain`[]American`[]US-IPLC`[]Others
-Telegram`select`[]SG-IPLC`[]Proxy`[]HongKong`[]HK-IPLC`[]HK-IEPL`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]JP-IPLC`[]Korea`[]Britain`[]American`[]US-IPLC`[]Others`[]DIRECT
+Proxy`select`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
+Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others
+Telegram`select`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]HK-IPLC`[]HK-IEPL`[]Macao`[]Taiwan`[]Singapore`[]SG-IPLC`[]Japan`[]JP-IPLC`[]Korea`[]Britain`[]American`[]US-IPLC`[]Others
-Netflix`select`[]Proxy`[]HongKong`[]HK-IPLC`[]HK-IEPL`[]Macao`[]Taiwan`[]Singapore`[]SG-IPLC`[]Japan`[]JP-IPLC`[]Korea`[]Britain`[]American`[]US-IPLC`[]Others`[]DIRECT
-YouTube`select`[]Proxy`[]HongKong`[]HK-IPLC`[]HK-IEPL`[]Macao`[]Taiwan`[]Singapore`[]SG-IPLC`[]Japan`[]JP-IPLC`[]Korea`[]Britain`[]American`[]US-IPLC`[]Others`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]HK-IPLC`[]HK-IEPL`[]Macao`[]Taiwan`[]Singapore`[]SG-IPLC`[]Japan`[]JP-IPLC`[]Korea`[]Britain`[]American`[]US-IPLC`[]Others
-GlobalMedia`select`[]Proxy`[]HongKong`[]HK-IPLC`[]HK-IEPL`[]Macao`[]Taiwan`[]Singapore`[]SG-IPLC`[]Japan`[]JP-IPLC`[]Korea`[]Britain`[]American`[]US-IPLC`[]Others`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others
+Netflix`select`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
+YouTube`select`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others
+GlobalMedia`select`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
 
 ; AdBlock`select`[]REJECT`[]DIRECT
 Final`select`[]Proxy`[]DIRECT
 
-HongKong`select`^(?!.*(IPLC|IEPL)).*港.*$
-HK-IPLC`select`港.*IPLC
-HK-IEPL`select`港.*IEPL
-Macao`select`(澳门)
-Taiwan`select`(台湾)
-Singapore`select`^(?!.*IPLC).*新加坡.*$
-SG-IPLC`select`(新加坡.*IPLC)
-Japan`select`^(?!.*IPLC).*日本.*$
-JP-IPLC`select`(日本.*IPLC)
-Korea`select`(韩国)
-Britain`select`(英国)
-American`select`^(?!.*IPLC).*美国.*$
-US-IPLC`select`(美国.*IPLC)
-Others`select`^(?!.*(香港|中港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*$
+HongKong`select`港
+Taiwan`select`台湾
+Singapore`select`新加坡
+Japan`select`日本
+American`select`美国
+Others`select`^(?!.*(港|台湾|新加坡|日本|美国)).*$
