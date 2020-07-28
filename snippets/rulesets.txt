@@ -1,0 +1,15 @@
+DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+DIRECT,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list
+
+!!import:https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/SpecialMedia.list
+!!import:https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/ChinaMedia.list
+!!import:https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/GlobalMedia.list
+
+Telegram,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Telegram.list
+Proxy,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Speedtest.list
+
+Proxy,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list
+Apple,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list
+DIRECT,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
+
+DIRECT,clash-ipcidr:https://ruleset.dev/clash_domestic_services_ips
