@@ -8,15 +8,20 @@ YouTube`select`[]HongKong`[]Proxy`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[
 ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others
 GlobalMedia`select`[]Proxy`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]Britain`[]American`[]Others`[]DIRECT
 
-;AdBlock`select`[]REJECT`[]DIRECT
+; AdBlock`select`[]REJECT`[]DIRECT
 Final`select`[]Proxy`[]DIRECT
 
-HongKong`select`(香港|中港)
+HongKong`select`^(?!.*(IPLC|IEPL)).*港.*$
+HK-IPLC`select`港.*IPLC
+HK-IEPL`select`港.*IEPL
 Macao`select`(澳门)
 Taiwan`select`(台湾)
-Singapore`select`(新加坡)
-Japan`select`(日本)
+Singapore`select`^(?!.*IPLC).*新加坡.*$
+SG-IPLC`select`(新加坡.*IPLC)
+Japan`select`^(?!.*IPLC).*日本.*$
+JP-IPLC`select`(日本.*IPLC)
 Korea`select`(韩国)
 Britain`select`(英国)
-American`select`(美国)
-Others`select`^(?!.*(香港|中港|澳门|台湾|新加坡|日本|韩国|英国|美国|网易云)).*$
+American`select`^(?!.*IPLC).*美国.*$
+US-IPLC`select`(美国.*IPLC)
+Others`select`^(?!.*(香港|中港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*$
