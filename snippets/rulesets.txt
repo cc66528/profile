@@ -47,3 +47,5 @@ Apple,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203
 DIRECT,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
 
 DIRECT,clash-ipcidr:https://ruleset.dev/clash_domestic_services_ips
+
+Final,[]FINAL
