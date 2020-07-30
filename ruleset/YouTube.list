@@ -4,6 +4,7 @@ USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 DOMAIN-KEYWORD,youtube
 DOMAIN,yt3.ggpht.com
+DOMAIN,www.googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
