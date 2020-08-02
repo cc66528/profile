@@ -15,8 +15,8 @@ custom:
   # quan_rule_base: base/quan.conf
   # quanx_rule_base: base/quanx.conf
 
-  rename_node:
-  - {match: "(.*)(->.*)", replace: "$1"}
+#   rename_node:
+#   - {match: "(.*)(->.*)", replace: "$1"}
   # - {import: snippet/rename.txt}
 
   add_emoji: false
