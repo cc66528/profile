@@ -18,6 +18,7 @@ custom:
 
   rename_node:
   - {match: "(.*)( ->)(.*)", replace: "$1"}
+  - {import: snippets/rename_node.txt}
 
   add_emoji: false
   remove_old_emoji: true
