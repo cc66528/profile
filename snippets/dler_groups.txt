@@ -1,51 +1,34 @@
-Proxy`select`[]HK-Global`[]HK-Bronze`[]HK-Silver`[]HK-Gold`[]HK-Platinum`[]HK-Palladium`[]HK-Diamond`[]MO-Palladium`[]MO-Diamond`[]TW-Global`[]TW-Bronze`[]TW-Silver`[]TW-Gold`[]SG-Global`[]SG-Bronze`[]SG-Silver`[]SG-Gold`[]SG-Platinum`[]SG-Palladium`[]JP-Global`[]JP-Bronze`[]JP-Silver`[]JP-Gold`[]JP-Platinum`[]KR-Global`[]KR-Bronze`[]KR-Silver`[]KR-Gold`[]UK-Global`[]UK-Bronze`[]UK-Silver`[]UK-Gold`[]US-Global`[]US-Bronze`[]US-Silver`[]US-Gold`[]US-Platinum`[]Others`[]DIRECT
-Apple`select`[]DIRECT`[]Proxy`[]HK-Global`[]HK-Bronze`[]HK-Silver`[]HK-Gold`[]HK-Platinum`[]HK-Palladium`[]HK-Diamond`[]MO-Palladium`[]MO-Diamond`[]TW-Global`[]TW-Bronze`[]TW-Silver`[]TW-Gold`[]SG-Global`[]SG-Bronze`[]SG-Silver`[]SG-Gold`[]SG-Platinum`[]SG-Palladium`[]JP-Global`[]JP-Bronze`[]JP-Silver`[]JP-Gold`[]JP-Platinum`[]KR-Global`[]KR-Bronze`[]KR-Silver`[]KR-Gold`[]UK-Global`[]UK-Bronze`[]UK-Silver`[]UK-Gold`[]US-Global`[]US-Bronze`[]US-Silver`[]US-Gold`[]US-Platinum`[]Others
-Telegram`select`[]Proxy`[]HK-Global`[]HK-Bronze`[]HK-Silver`[]HK-Gold`[]HK-Platinum`[]HK-Palladium`[]HK-Diamond`[]MO-Palladium`[]MO-Diamond`[]TW-Global`[]TW-Bronze`[]TW-Silver`[]TW-Gold`[]SG-Global`[]SG-Bronze`[]SG-Silver`[]SG-Gold`[]SG-Platinum`[]SG-Palladium`[]JP-Global`[]JP-Bronze`[]JP-Silver`[]JP-Gold`[]JP-Platinum`[]KR-Global`[]KR-Bronze`[]KR-Silver`[]KR-Gold`[]UK-Global`[]UK-Bronze`[]UK-Silver`[]UK-Gold`[]US-Global`[]US-Bronze`[]US-Silver`[]US-Gold`[]US-Platinum`[]Others`[]DIRECT
+Proxy`select`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]OTHERS
+Apple`select`[]DIRECT`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]OTHERS
+Telegram`select`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]OTHERS`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]HK-Global`[]HK-Bronze`[]HK-Silver`[]HK-Gold`[]HK-Platinum`[]HK-Palladium`[]HK-Diamond`[]MO-Palladium`[]MO-Diamond`[]TW-Global`[]TW-Bronze`[]TW-Silver`[]TW-Gold`[]SG-Global`[]SG-Bronze`[]SG-Silver`[]SG-Gold`[]SG-Platinum`[]SG-Palladium`[]JP-Global`[]JP-Bronze`[]JP-Silver`[]JP-Gold`[]JP-Platinum`[]KR-Global`[]KR-Bronze`[]KR-Silver`[]KR-Gold`[]UK-Global`[]UK-Bronze`[]UK-Silver`[]UK-Gold`[]US-Global`[]US-Bronze`[]US-Silver`[]US-Gold`[]US-Platinum`[]Others
-Netflix`select`[]Proxy`[]HK-Global`[]HK-Bronze`[]HK-Silver`[]HK-Gold`[]HK-Platinum`[]HK-Palladium`[]HK-Diamond`[]MO-Palladium`[]MO-Diamond`[]TW-Global`[]TW-Bronze`[]TW-Silver`[]TW-Gold`[]SG-Global`[]SG-Bronze`[]SG-Silver`[]SG-Gold`[]SG-Platinum`[]SG-Palladium`[]JP-Global`[]JP-Bronze`[]JP-Silver`[]JP-Gold`[]JP-Platinum`[]KR-Global`[]KR-Bronze`[]KR-Silver`[]KR-Gold`[]UK-Global`[]UK-Bronze`[]UK-Silver`[]UK-Gold`[]US-Global`[]US-Bronze`[]US-Silver`[]US-Gold`[]US-Platinum`[]Others`[]DIRECT
-YouTube`select`[]Proxy`[]HK-Global`[]HK-Bronze`[]HK-Silver`[]HK-Gold`[]HK-Platinum`[]HK-Palladium`[]HK-Diamond`[]MO-Palladium`[]MO-Diamond`[]TW-Global`[]TW-Bronze`[]TW-Silver`[]TW-Gold`[]SG-Global`[]SG-Bronze`[]SG-Silver`[]SG-Gold`[]SG-Platinum`[]SG-Palladium`[]JP-Global`[]JP-Bronze`[]JP-Silver`[]JP-Gold`[]JP-Platinum`[]KR-Global`[]KR-Bronze`[]KR-Silver`[]KR-Gold`[]UK-Global`[]UK-Bronze`[]UK-Silver`[]UK-Gold`[]US-Global`[]US-Bronze`[]US-Silver`[]US-Gold`[]US-Platinum`[]Others`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]HK-Global`[]HK-Bronze`[]HK-Silver`[]HK-Gold`[]HK-Platinum`[]HK-Palladium`[]HK-Diamond`[]MO-Palladium`[]MO-Diamond`[]TW-Global`[]TW-Bronze`[]TW-Silver`[]TW-Gold`[]SG-Global`[]SG-Bronze`[]SG-Silver`[]SG-Gold`[]SG-Platinum`[]SG-Palladium`[]JP-Global`[]JP-Bronze`[]JP-Silver`[]JP-Gold`[]JP-Platinum`[]KR-Global`[]KR-Bronze`[]KR-Silver`[]KR-Gold`[]UK-Global`[]UK-Bronze`[]UK-Silver`[]UK-Gold`[]US-Global`[]US-Bronze`[]US-Silver`[]US-Gold`[]US-Platinum`[]Others
-GlobalMedia`select`[]Proxy`[]HK-Global`[]HK-Bronze`[]HK-Silver`[]HK-Gold`[]HK-Platinum`[]HK-Palladium`[]HK-Diamond`[]MO-Palladium`[]MO-Diamond`[]TW-Global`[]TW-Bronze`[]TW-Silver`[]TW-Gold`[]SG-Global`[]SG-Bronze`[]SG-Silver`[]SG-Gold`[]SG-Platinum`[]SG-Palladium`[]JP-Global`[]JP-Bronze`[]JP-Silver`[]JP-Gold`[]JP-Platinum`[]KR-Global`[]KR-Bronze`[]KR-Silver`[]KR-Gold`[]UK-Global`[]UK-Bronze`[]UK-Silver`[]UK-Gold`[]US-Global`[]US-Bronze`[]US-Silver`[]US-Gold`[]US-Platinum`[]Others`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]OTHERS
+Netflix`select`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]OTHERS`[]DIRECT
+YouTube`select`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]OTHERS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]OTHERS
+GlobalMedia`select`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]OTHERS`[]DIRECT
 
 ; AdBlock`select`[]REJECT`[]DIRECT
 Final`select`[]Proxy`[]DIRECT
 
-HK-Global`select`^(?!.*(标准|高级|IPLC|IEPL)).*香港.*$
-HK-Bronze`select`香港标准 BGP
-HK-Silver`select`香港高级 BGP`香港 IPLC
-HK-Gold`select`香港.*(CN2|9929)`香港 IEPL
-HK-Platinum`select`香港标准 IPLC
-HK-Palladium`select`香港高级 IPLC
-HK-Diamond`select`香港高级 IEPL
-MO-Palladium`select`(澳门标准)
-MO-Diamond`select`(澳门高级)
-TW-Global`select`^(?!.*(标准|高级)).*台湾.*$
-TW-Bronze`select`台湾标准 BGP
-TW-Silver`select`台湾高级 BGP
-TW-Gold`select`台湾.*(CN2|9929)
-SG-Global`select`^(?!.*(标准|高级)).*新加坡.*$
-SG-Bronze`select`新加坡标准 BGP
-SG-Silver`select`新加坡高级 BGP
-SG-Gold`select`新加坡.*(CN2|9929)
-SG-Platinum`select`新加坡标准 IPLC
-SG-Palladium`select`新加坡高级 IPLC
-JP-Global`select`^(?!.*(标准|高级)).*日本.*$
-JP-Bronze`select`日本标准 BGP
-JP-Silver`select`日本高级 BGP
-JP-Gold`select`日本.*(CN2|9929)
-JP-Platinum`select`日本标准 IPLC
-KR-Global`select`^(?!.*(标准|高级)).*韩国.*$
-KR-Bronze`select`韩国标准 BGP
-KR-Silver`select`韩国高级 BGP
-KR-Gold`select`韩国.*(CN2|9929)
-UK-Global`select`^(?!.*(标准|高级)).*英国.*$
-UK-Bronze`select`英国标准 BGP
-UK-Silver`select`英国高级 BGP
-UK-Gold`select`英国.*(CN2|9929)
-US-Global`select`^(?!.*(标准|高级)).*美国.*$
-US-Bronze`select`美国标准 BGP
-US-Silver`select`美国高级 BGP
-US-Gold`select`美国.*(CN2|9929)
-US-Platinum`select`美国标准 IPLC
-Others`select`^(?!.*(香港|中港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*$
+HK`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
+HK-BGP`select`香港 BGP
+HK-IPLC`select`香港 IPLC
+HK-IEPL`select`香港 IEPL
+MO`select`澳门
+TW`select`^(?!.*(BGP|IPLC)).*台湾.*$
+TW-BGP`select`台湾 BGP
+SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
+SG-BGP`select`新加坡 BGP
+SG-IPLC`select`新加坡 IPLC
+JP`select`^(?!.*(BGP|IPLC)).*日本.*$
+JP-BGP`select`日本 BGP
+JP-IPLC`select`日本 IPLC
+KR`select`^(?!.*(BGP|IPLC)).*韩国.*$
+KR-BGP`select`韩国 BGP
+UK`select`^(?!.*(BGP|IPLC)).*英国.*$
+UK-BGP`select`英国 BGP
+US`select`^(?!.*(BGP|IPLC)).*美国.*$
+US-BGP`select`美国 BGP
+US-IPLC`select`美国 IPLC
+Others`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*$
