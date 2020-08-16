@@ -14,7 +14,7 @@ Final`select`[]Proxy`[]DIRECT
 HK-Global`select`^(?!.*(标准|高级)).*香港.*$
 HK-Bronze`select`香港标准 BGP
 HK-Silver`select`香港高级 BGP
-HK-Gold`select`香港.*(CN2|9929)
+HK-Gold`select`香港.*(CN2|9929)`香港 IEPL
 HK-Platinum`select`香港标准 IPLC
 HK-Palladium`select`香港高级 IPLC
 HK-Diamond`select`香港高级 IEPL
