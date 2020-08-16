@@ -11,9 +11,9 @@ GlobalMedia`select`[]Proxy`[]HK-Global`[]HK-Bronze`[]HK-Silver`[]HK-Gold`[]HK-Pl
 ; AdBlock`select`[]REJECT`[]DIRECT
 Final`select`[]Proxy`[]DIRECT
 
-HK-Global`select`^(?!.*(标准|高级)).*香港.*$
+HK-Global`select`^(?!.*(标准|高级|IPLC|IEPL)).*香港.*$
 HK-Bronze`select`香港标准 BGP
-HK-Silver`select`香港高级 BGP
+HK-Silver`select`香港高级 BGP`香港 IPLC
 HK-Gold`select`香港.*(CN2|9929)`香港 IEPL
 HK-Platinum`select`香港标准 IPLC
 HK-Palladium`select`香港高级 IPLC
