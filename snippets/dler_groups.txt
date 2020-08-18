@@ -1,34 +1,34 @@
-Proxy`select`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]Others
-Apple`select`[]DIRECT`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]Others
-Telegram`select`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]Others`[]DIRECT
+Proxy`select`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTHERS
+Apple`select`[]DIRECT`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTHERS
+Telegram`select`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTHERS`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]Others
-Netflix`select`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]Others`[]DIRECT
-YouTube`select`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]Others`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]Others
-GlobalMedia`select`[]Proxy`[]HK`[]HK-BGP`[]HK-IPLC`[]HK-IEPL`[]MO`[]TW`[]TW-BGP`[]SG`[]SG-BGP`[]SG-IPLC`[]JP`[]JP-BGP`[]JP-IPLC`[]KR`[]KR-BGP`[]UK`[]UK-BGP`[]US`[]US-BGP`[]US-IPLC`[]Others`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTHERS
+Netflix`select`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTHERS`[]DIRECT
+YouTube`select`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTHERS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTHERS
+GlobalMedia`select`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTHERS`[]DIRECT
 
 ; AdBlock`select`[]REJECT`[]DIRECT
 Final`select`[]Proxy`[]DIRECT
 
 HK`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
-HK-BGP`select`香港 BGP
-HK-IPLC`select`香港 IPLC
-HK-IEPL`select`香港 IEPL
+HK BGP`select`香港 BGP
+HK IPLC`select`香港 IPLC
+HK IEPL`select`香港 IEPL
 MO`select`澳门
 TW`select`^(?!.*(BGP|IPLC)).*台湾.*$
-TW-BGP`select`台湾 BGP
+TW BGP`select`台湾 BGP
 SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
-SG-BGP`select`新加坡 BGP
-SG-IPLC`select`新加坡 IPLC
+SG BGP`select`新加坡 BGP
+SG IPLC`select`新加坡 IPLC
 JP`select`^(?!.*(BGP|IPLC)).*日本.*$
-JP-BGP`select`日本 BGP
-JP-IPLC`select`日本 IPLC
+JP BGP`select`日本 BGP
+JP IPLC`select`日本 IPLC
 KR`select`^(?!.*(BGP|IPLC)).*韩国.*$
-KR-BGP`select`韩国 BGP
+KR BGP`select`韩国 BGP
 UK`select`^(?!.*(BGP|IPLC)).*英国.*$
-UK-BGP`select`英国 BGP
+UK BGP`select`英国 BGP
 US`select`^(?!.*(BGP|IPLC)).*美国.*$
-US-BGP`select`美国 BGP
-US-IPLC`select`美国 IPLC
-Others`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*$
+US BGP`select`美国 BGP
+US IPLC`select`美国 IPLC
+OTHERS`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*$
