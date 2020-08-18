@@ -4,7 +4,7 @@ DIRECT,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%20
 YouTube,surge:https://raw.githubusercontent.com/hardy-one/prefini/master/ruleset/YouTube.list
 YouTube,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTubeMusic.list
 Netflix,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netflix.list
-DIRECT,surge:https://raw.githubusercontent.com/hardy-one/prefini/master/ruleset/Fast.list
+Netflix,surge:https://raw.githubusercontent.com/hardy-one/prefini/master/ruleset/Fast.list
 BiliBili,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Bilibili.list
 GlobalMedia,surge:https://raw.githubusercontent.com/hardy-one/prefini/master/ruleset/DisneyPlus.list
 GlobalMedia,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/ABC.list
