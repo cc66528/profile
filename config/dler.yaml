@@ -3,8 +3,11 @@ custom:
   overwrite_original_rules: true
 
   proxy_groups:
+  {% if request.target == "clash" or request.target == "clashr" %}
+  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups_relay.txt"}
+  {% else %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups.txt"}
-
+  {% endif %}
   rulesets:
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/rulesets.txt"}
 
@@ -16,9 +19,9 @@ custom:
   # quan_rule_base: base/quan.conf
   # quanx_rule_base: base/quanx.conf
 
-#   rename_node:
-#   - {match: "(.*)( ->)(.*)", replace: "$1"}
-#   - {import: snippets/rename_node.txt}
+  rename_node:
+  - {match: "(.*)( ->)(.*)", replace: "$1"}
+  - {import: snippets/rename_node.txt}
 
   add_emoji: false
   remove_old_emoji: true
