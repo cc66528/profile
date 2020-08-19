@@ -10,7 +10,7 @@ GlobalMedia`select`[]Proxy`[]RELAY`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[
 
 Final`select`[]Proxy`[]DIRECT
 
-RELAY`relay`[]RELAY OUT`[]RELAY IN
+RELAY`relay`[]RELAY IN`[]RELAY OUT
 RELAY IN`select`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS
 RELAY OUT`select`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS
 
