@@ -1,5 +1,5 @@
 {% if request.target == "surge" %}
-DIRECT,[]RULE-SET,LAN
+DIRECT,[]LAN
 {% else %}
 DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 {% endif %}
