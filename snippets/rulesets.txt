@@ -1,4 +1,8 @@
+{% if request.target == "surge" %}
+DIRECT,[]RULE-SET,LAN
+{% else %}
 DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+{% endif %}
 DIRECT,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list
 
 YouTube,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/YouTube.list
