@@ -18,7 +18,7 @@ MO`select`澳门
 TW`select`台湾
 SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
 SG BGP`select`新加坡 BGP
-SG IPLC`select`新加坡 IPLC+`新加坡 IPLC
+SG IPLC`select`新加坡 IPLC+
 JP`select`日本
 US`select`美国
 OTS`select`^(?!.*(香港|澳门|台湾|新加坡|日本|美国)).*$
