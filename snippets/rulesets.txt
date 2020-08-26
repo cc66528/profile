@@ -2,7 +2,7 @@ DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Loca
 DIRECT,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list
 
 YouTube,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/YouTube.list
-YouTube,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/YouTubeMusic.list
+YouTube,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/YouTube20Music.list
 Netflix,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Netflix.list
 Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
 BiliBili,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/Bilibili.list
