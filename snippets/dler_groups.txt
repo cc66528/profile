@@ -1,21 +1,20 @@
-Proxy`select`[]香港普通[]香港专线`[]澳门`[]台湾`[]狮城普通`[]狮城专线`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
-Apple`select`[]DIRECT`[]Proxy`[]香港普通[]香港专线`[]澳门`[]台湾`[]狮城普通`[]狮城专线`[]日本`[]韩国`[]美国`[]英国`[]其余
-Telegram`select`[]Proxy`[]香港普通[]香港专线`[]澳门`[]台湾`[]狮城普通`[]狮城专线`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
+Proxy`select`[]香港[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
+Apple`select`[]DIRECT`[]Proxy`[]香港[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余
+Telegram`select`[]Proxy`[]香港[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]香港普通[]香港专线`[]澳门`[]台湾`[]狮城普通`[]狮城专线`[]日本`[]韩国`[]美国`[]英国`[]其余
-Netflix`select`[]Proxy`[]香港普通[]香港专线`[]澳门`[]台湾`[]狮城普通`[]狮城专线`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
-YouTube`select`[]Proxy`[]香港普通[]香港专线`[]澳门`[]台湾`[]狮城普通`[]狮城专线`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]香港普通[]香港专线`[]澳门`[]台湾`[]狮城普通`[]狮城专线`[]日本`[]韩国`[]美国`[]英国`[]其余
-GlobalMedia`select`[]Proxy`[]香港普通[]香港专线`[]澳门`[]台湾`[]狮城普通`[]狮城专线`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]香港[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余
+Netflix`select`[]Proxy`[]香港[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
+YouTube`select`[]Proxy`[]香港[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]香港[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余
+GlobalMedia`select`[]Proxy`[]香港[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
 
 Final`select`[]Proxy`[]DIRECT
 
-香港普通`select`香港 BGP`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
+香港`select`香港 BGP`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
 香港专线`select`香港 IEPL`香港 IPLC
 澳门`select`澳门
 台湾`select`台湾
-狮城普通`select`新加坡 BGP`^(?!.*(BGP|IPLC)).*新加坡.*$
-狮城专线`select`新加坡专线
+新加坡`select`新加坡
 日本`select`日本
 韩国`select`韩国
 美国`select`美国
