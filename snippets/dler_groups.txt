@@ -1,33 +1,33 @@
-Proxy`select`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他
-Apple`select`[]DIRECT`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他
-Telegram`select`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他`[]DIRECT
+Proxy`select`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS
+Apple`select`[]DIRECT`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS
+Telegram`select`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他
-Netflix`select`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他`[]DIRECT
-YouTube`select`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他
-GlobalMedia`select`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS
+Netflix`select`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS`[]DIRECT
+YouTube`select`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS
+GlobalMedia`select`[]Proxy`[]HK`[]HK BGP`[]HK IPLC`[]HK IEPL`[]MO`[]TW`[]TW BGP`[]SG`[]SG BGP`[]SG IPLC`[]JP`[]JP BGP`[]JP IPLC`[]KR`[]KR BGP`[]UK`[]UK BGP`[]US`[]US BGP`[]US IPLC`[]OTS`[]DIRECT
 
 Final`select`[]Proxy`[]DIRECT
 
-香港`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
-香港BGP`select`香港BGP
-香港IPLC`select`香港 IPLC
-香港IEPL`select`香港 IEPL
-澳门`select`澳门
-台湾`select`^(?!.*(BGP|IPLC)).*台湾.*$
-台湾BGP`select`台湾 BGP
-狮城`select`^(?!.*(BGP|IPLC)).*新加坡.*$
-狮城BGP`select`新加坡 BGP
-狮城IPLC`select`新加坡 IPLC
-日本`select`^(?!.*(BGP|IPLC)).*日本.*$
-日本BGP`select`日本 BGP
-日本IPLC`select`日本 IPLC
-韩国`select`^(?!.*(BGP|IPLC)).*韩国.*$
-韩国BGP`select`韩国 BGP
-英国`select`^(?!.*(BGP|IPLC)).*英国.*$
-英国BGP`select`英国 BGP
-美国`select`^(?!.*(BGP|IPLC)).*美国.*$
-美国BGP`select`美国 BGP
-美国IPLC`select`美国 IPLC
-其他`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*$
+HK`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
+HK BGP`select`香港 BGP
+HK IPLC`select`香港 IPLC
+HK IEPL`select`香港 IEPL
+MO`select`澳门
+TW`select`^(?!.*(BGP|IPLC)).*台湾.*$
+TW BGP`select`台湾 BGP
+SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
+SG BGP`select`新加坡 BGP
+SG IPLC`select`新加坡 IPLC
+JP`select`^(?!.*(BGP|IPLC)).*日本.*$
+JP BGP`select`日本 BGP
+JP IPLC`select`日本 IPLC
+KR`select`^(?!.*(BGP|IPLC)).*韩国.*$
+KR BGP`select`韩国 BGP
+UK`select`^(?!.*(BGP|IPLC)).*英国.*$
+UK BGP`select`英国 BGP
+US`select`^(?!.*(BGP|IPLC)).*美国.*$
+US BGP`select`美国 BGP
+US IPLC`select`美国 IPLC
+OTS`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*$
