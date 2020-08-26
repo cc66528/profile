@@ -1,33 +1,33 @@
-Proxy`select`[]香港`[]香港 BGP`[]香港 IPLC`[]香港 IEPL`[]澳门`[]台湾`[]台湾 BGP`[]狮城`[]狮城 BGP`[]狮城 IPLC`[]日本`[]日本 BGP`[]日本 IPLC`[]韩国`[]韩国 BGP`[]英国`[]英国 BGP`[]美国`[]美国 BGP`[]美国 IPLC`[]其他
-Apple`select`[]DIRECT`[]Proxy`[]香港`[]香港 BGP`[]香港 IPLC`[]香港 IEPL`[]澳门`[]台湾`[]台湾 BGP`[]狮城`[]狮城 BGP`[]狮城 IPLC`[]日本`[]日本 BGP`[]日本 IPLC`[]韩国`[]韩国 BGP`[]英国`[]英国 BGP`[]美国`[]美国 BGP`[]美国 IPLC`[]其他
-Telegram`select`[]Proxy`[]香港`[]香港 BGP`[]香港 IPLC`[]香港 IEPL`[]澳门`[]台湾`[]台湾 BGP`[]狮城`[]狮城 BGP`[]狮城 IPLC`[]日本`[]日本 BGP`[]日本 IPLC`[]韩国`[]韩国 BGP`[]英国`[]英国 BGP`[]美国`[]美国 BGP`[]美国 IPLC`[]其他`[]DIRECT
+Proxy`select`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他
+Apple`select`[]DIRECT`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他
+Telegram`select`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]香港`[]香港 BGP`[]香港 IPLC`[]香港 IEPL`[]澳门`[]台湾`[]台湾 BGP`[]狮城`[]狮城 BGP`[]狮城 IPLC`[]日本`[]日本 BGP`[]日本 IPLC`[]韩国`[]韩国 BGP`[]英国`[]英国 BGP`[]美国`[]美国 BGP`[]美国 IPLC`[]其他
-Netflix`select`[]Proxy`[]香港`[]香港 BGP`[]香港 IPLC`[]香港 IEPL`[]澳门`[]台湾`[]台湾 BGP`[]狮城`[]狮城 BGP`[]狮城 IPLC`[]日本`[]日本 BGP`[]日本 IPLC`[]韩国`[]韩国 BGP`[]英国`[]英国 BGP`[]美国`[]美国 BGP`[]美国 IPLC`[]其他`[]DIRECT
-YouTube`select`[]Proxy`[]香港`[]香港 BGP`[]香港 IPLC`[]香港 IEPL`[]澳门`[]台湾`[]台湾 BGP`[]狮城`[]狮城 BGP`[]狮城 IPLC`[]日本`[]日本 BGP`[]日本 IPLC`[]韩国`[]韩国 BGP`[]英国`[]英国 BGP`[]美国`[]美国 BGP`[]美国 IPLC`[]其他`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]香港`[]香港 BGP`[]香港 IPLC`[]香港 IEPL`[]澳门`[]台湾`[]台湾 BGP`[]狮城`[]狮城 BGP`[]狮城 IPLC`[]日本`[]日本 BGP`[]日本 IPLC`[]韩国`[]韩国 BGP`[]英国`[]英国 BGP`[]美国`[]美国 BGP`[]美国 IPLC`[]其他
-GlobalMedia`select`[]Proxy`[]香港`[]香港 BGP`[]香港 IPLC`[]香港 IEPL`[]澳门`[]台湾`[]台湾 BGP`[]狮城`[]狮城 BGP`[]狮城 IPLC`[]日本`[]日本 BGP`[]日本 IPLC`[]韩国`[]韩国 BGP`[]英国`[]英国 BGP`[]美国`[]美国 BGP`[]美国 IPLC`[]其他`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他
+Netflix`select`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他`[]DIRECT
+YouTube`select`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他
+GlobalMedia`select`[]Proxy`[]香港`[]香港BGP`[]香港IPLC`[]香港IEPL`[]澳门`[]台湾`[]台湾BGP`[]狮城`[]狮城BGP`[]狮城IPLC`[]日本`[]日本BGP`[]日本IPLC`[]韩国`[]韩国BGP`[]英国`[]英国BGP`[]美国`[]美国BGP`[]美国IPLC`[]其他`[]DIRECT
 
 Final`select`[]Proxy`[]DIRECT
 
 香港`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
-香港 BGP`select`香港 BGP
-香港 IPLC`select`香港 IPLC
-香港 IEPL`select`香港 IEPL
+香港BGP`select`香港BGP
+香港IPLC`select`香港 IPLC
+香港IEPL`select`香港 IEPL
 澳门`select`澳门
 台湾`select`^(?!.*(BGP|IPLC)).*台湾.*$
-台湾 BGP`select`台湾 BGP
+台湾BGP`select`台湾 BGP
 狮城`select`^(?!.*(BGP|IPLC)).*新加坡.*$
-狮城 BGP`select`新加坡 BGP
-狮城 IPLC`select`新加坡 IPLC
+狮城BGP`select`新加坡 BGP
+狮城IPLC`select`新加坡 IPLC
 日本`select`^(?!.*(BGP|IPLC)).*日本.*$
-日本 BGP`select`日本 BGP
-日本 IPLC`select`日本 IPLC
+日本BGP`select`日本 BGP
+日本IPLC`select`日本 IPLC
 韩国`select`^(?!.*(BGP|IPLC)).*韩国.*$
-韩国 BGP`select`韩国 BGP
+韩国BGP`select`韩国 BGP
 英国`select`^(?!.*(BGP|IPLC)).*英国.*$
-英国 BGP`select`英国 BGP
+英国BGP`select`英国 BGP
 美国`select`^(?!.*(BGP|IPLC)).*美国.*$
-美国 BGP`select`美国 BGP
-美国 IPLC`select`美国 IPLC
+美国BGP`select`美国 BGP
+美国IPLC`select`美国 IPLC
 其他`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*$
