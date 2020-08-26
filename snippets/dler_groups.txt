@@ -11,12 +11,12 @@ GlobalMedia`select`[]Proxy`[]香港`[]香港专线`[]澳门`[]台湾`[]新加坡
 Final`select`[]Proxy`[]DIRECT
 
 香港`select`香港 BGP`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
-香港专线`select`香港 IEPL`香港 IPLC
-澳门`select`澳门
-台湾`select`台湾
-新加坡`select`新加坡
-日本`select`日本
-韩国`select`韩国
-美国`select`美国
-英国`select`英国
-其余`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*BGP$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*$
+香港专线`select`香港 IEPL\+`香港 IEPL`香港 IPLC
+澳门`select`澳门.*\+`澳门
+台湾`select`台湾 BGP`台湾
+新加坡`select`新加坡 IPLC\+`新加坡 IPLC`新加坡 BGP`新加坡
+日本`select`日本 IPLC`日本 BGP`日本
+韩国`select`韩国 BGP`韩国
+美国`select`美国 IPLC`美国 BGP`美国
+英国`select`英国 BGP`英国
+其余`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*BGP$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*\+$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*$
