@@ -12,13 +12,13 @@ Final`select`[]Proxy`[]DIRECT
 
 HK`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
 HK BGP`select`香港 BGP
-HK IPLC`select`香港 IPLC
-HK IEPL`select`香港 IEPL
+HK IPLC`select`香港 IPLC+`香港 IPLC
+HK IEPL`select`香港 IEPL+`香港 IEPL
 MO`select`澳门
 TW`select`台湾
 SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
 SG BGP`select`新加坡 BGP
-SG IPLC`select`新加坡 IPLC
+SG IPLC`select`新加坡 IPLC+`新加坡 IPLC
 JP`select`日本
 US`select`美国
 OTS`select`^(?!.*(香港|澳门|台湾|新加坡|日本|美国)).*$
