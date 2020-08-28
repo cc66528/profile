@@ -20,7 +20,7 @@ custom:
   - {import: snippets/rename_node.txt}
 
   add_emoji: false
-  remove_old_emoji: true
+  remove_old_emoji: false
   # emojis:
   # - {import: snippets/emoji.txt}
 
