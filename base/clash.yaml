@@ -26,6 +26,9 @@ dns:
     geoip: true
     ipcidr:
       - 240.0.0.0/4
+clash-for-android:
+  append-system-dns: true
+  ui-subtitle-pattern: ^.*?\s
 proxies: ~
 proxy-groups: ~
 rules: ~
