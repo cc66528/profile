@@ -7,6 +7,9 @@ log-level: info
 external-controller: :9090
 experimental:
   ignore-resolve-fail: true
+clash-for-android:
+  append-system-dns: true
+  ui-subtitle-pattern: "^.*?\s"
 dns:
   enable: true
   listen: 0.0.0.0:1053
@@ -29,4 +32,3 @@ dns:
 proxies: ~
 proxy-groups: ~
 rules: ~
-译
