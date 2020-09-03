@@ -27,7 +27,7 @@ dns:
     ipcidr:
       - 240.0.0.0/4
 clash-for-android:
-  append-system-dns: true
+  append-system-dns: false
   ui-subtitle-pattern: ^(\\U.{8})+?\s.*?\s|^[\uD83C\uDDE6-\uD83C\uDDFF]+?\s.*?\s|^.*?\s
 proxies: ~
 proxy-groups: ~
