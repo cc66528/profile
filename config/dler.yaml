@@ -3,7 +3,11 @@ custom:
   overwrite_original_rules: true
 
   proxy_groups:
-  - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/dler_groups.txt"}
+  {% if default(request.relay, "") == "1" %}
+  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups_relay.txt"}
+  {% else %}
+  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups.txt"}
+  {% endif %}
   rulesets:
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/rulesets.txt"}
 
