@@ -1,17 +1,17 @@
-Proxy`select`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
-Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
-Telegram`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+Proxy`select`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
+Telegram`select`[]Proxy`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
-Netflix`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
-YouTube`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
-GlobalMedia`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
+Netflix`select`[]Proxy`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+YouTube`select`[]Proxy`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
+GlobalMedia`select`[]Proxy`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
 
 Final`select`[]Proxy`[]DIRECT
 
 HongKong`select`香港 BGP`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
-HKAdvanced`select`香港 IEPL\+`香港 IEPL`香港 IPLC
+HKPrivate`select`香港 IEPL\+`香港 IEPL`香港 IPLC
 Macao`select`澳门.*\+`澳门
 Taiwan`select`台湾 BGP`台湾
 Singapore`select`新加坡 IPLC\+`新加坡 IPLC`新加坡 BGP`新加坡
