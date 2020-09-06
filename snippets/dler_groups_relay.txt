@@ -1,12 +1,12 @@
-Proxy`select`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
-Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others
-Telegram`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
+Proxy`select`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
+Telegram`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others
-Netflix`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
-YouTube`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others
-GlobalMedia`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
+Netflix`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+YouTube`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
+GlobalMedia`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
 
 Final`select`[]Proxy`[]DIRECT
 
