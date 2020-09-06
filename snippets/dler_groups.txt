@@ -1,22 +1,22 @@
-Proxy`select`[]香港`[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
-Apple`select`[]DIRECT`[]Proxy`[]香港`[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余
-Telegram`select`[]Proxy`[]香港`[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
+Proxy`select`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]SIngapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
+Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]SIngapore`[]Japan`[]Korea`[]America`[]Britain`[]Others
+Telegram`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]SIngapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]香港`[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余
-Netflix`select`[]Proxy`[]香港`[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
-YouTube`select`[]Proxy`[]香港`[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]香港`[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余
-GlobalMedia`select`[]Proxy`[]香港`[]香港专线`[]澳门`[]台湾`[]新加坡`[]日本`[]韩国`[]美国`[]英国`[]其余`[]DIRECT
+BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]SIngapore`[]Japan`[]Korea`[]America`[]Britain`[]Others
+Netflix`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]SIngapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
+YouTube`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]SIngapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]SIngapore`[]Japan`[]Korea`[]America`[]Britain`[]Others
+GlobalMedia`select`[]Proxy`[]HongKong`[]HKAdvanced`[]Macao`[]Taiwan`[]SIngapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
 
 Final`select`[]Proxy`[]DIRECT
 
-香港`select`香港 BGP`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
-香港专线`select`香港 IEPL\+`香港 IEPL`香港 IPLC
-澳门`select`澳门.*\+`澳门
-台湾`select`台湾 BGP`台湾
-新加坡`select`新加坡 IPLC\+`新加坡 IPLC`新加坡 BGP`新加坡
-日本`select`日本 IPLC`日本 BGP`日本
-韩国`select`韩国 BGP`韩国
-美国`select`美国 IPLC`美国 BGP`美国
-英国`select`英国 BGP`英国
-其余`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*BGP$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*\+$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*$
+HongKong`select`香港 BGP`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
+HKAdvanced`select`香港 IEPL\+`香港 IEPL`香港 IPLC
+Macao`select`澳门.*\+`澳门
+Taiwan`select`台湾 BGP`台湾
+Singapore`select`新加坡 IPLC\+`新加坡 IPLC`新加坡 BGP`新加坡
+Japan`select`日本 IPLC`日本 BGP`日本
+Korean`select`韩国 BGP`韩国
+America`select`美国 IPLC`美国 BGP`美国
+Britain`select`英国 BGP`英国
+Others`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*BGP$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*\+$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*$
