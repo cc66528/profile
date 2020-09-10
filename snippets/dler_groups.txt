@@ -1,4 +1,4 @@
-Proxy`select`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
+Proxy`select`[]HKPrivate`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
 Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others
 Telegram`select`[]Proxy`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]DIRECT
 
