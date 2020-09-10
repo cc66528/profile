@@ -1,15 +1,15 @@
-Proxy`select`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
-Apple`select`[]DIRECT`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others
-Telegram`select`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
+Manual`select`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
+Apple`select`[]DIRECT`[]Manual`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others
+Telegram`select`[]Manual`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others
-Netflix`select`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
-YouTube`select`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others
-GlobalMedia`select`[]Proxy`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
+BiliBili`select`[]DIRECT`[]Manual`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others
+Netflix`select`[]Manual`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
+YouTube`select`[]Manual`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others
+GlobalMedia`select`[]Manual`[]HongKong`[]Taiwan`[]Singapore`[]Japan`[]American`[]Others`[]DIRECT
 
 ; AdBlock`select`[]REJECT`[]DIRECT
-Final`select`[]Proxy`[]DIRECT
+Final`select`[]Manual`[]DIRECT
 
 HongKong`select`港
 Taiwan`select`台湾
