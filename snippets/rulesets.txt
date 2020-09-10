@@ -41,7 +41,7 @@ ChinaMedia,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surg
 
 Telegram,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Telegram.list
 ;DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Speedtest.list
-Proxy,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list
+Manual,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Proxy.list
 Apple,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list
 DIRECT,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
 {% if request.target == "clash" or request.target == "clashr" %}
