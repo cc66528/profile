@@ -15,6 +15,7 @@ custom:
   {% else %}
   - {rule: "GEOIP,CN", group: "DIRECT"}
   {% endif %}
+  - {rule: "FINAL", group: "Final"}
 
 
   clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
