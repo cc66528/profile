@@ -1,12 +1,12 @@
-Manual`select`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Apple`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Telegram`select`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+Manual`select`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Apple`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Telegram`select`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Netflix`select`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-YouTube`select`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-GlobalMedia`select`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Netflix`select`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+YouTube`select`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+GlobalMedia`select`[]Manual`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]OTS BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 
 Final`select`[]Manual`[]DIRECT
 
@@ -23,18 +23,19 @@ SG BGP`select`新加坡.*BGP
 JP BGP`select`日本.*BGP
 KR BGP`select`韩国.*BGP
 US BGP`select`美国.*BGP
-UK BGP`select`英国.*BGP
+UK BGP``select`英国.*BGP
+DE BGP`select`德国.*BGP
 OTS BGP`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*BGP$
 
 HK`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
 MO`select`澳门.*\+`澳门
-TW`select`^(?!.*BGP).*台湾$
+TW`select`^(?!.*BGP).*台湾.*$
 SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
 JP`select`^(?!.*(BGP|IPLC)).*日本.*$
 KR`select`^(?!.*BGP).*韩国.*$
 US`select`^(?!.*(BGP|IPLC)).*美国.*$
 UK`select`^(?!.*BGP).*英国.*$
-RU`[]DE`select`俄罗斯.*\+`俄罗斯
+RU`select`俄罗斯.*\+`俄罗斯
 DE`select`德国
 OTS`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国|俄罗斯|德国|BGP)).*$
 
@@ -45,6 +46,6 @@ JP RELAY`relay`[]HK IEPL`[]JP
 KR RELAY`relay`[]HK IEPL`[]KR
 US RELAY`relay`[]HK IEPL`[]US
 UK RELAY`relay`[]HK IEPL`[]UK
-RU RELAY`[]DE RELAY`relay`[]HK IEPL`[]RU
+RU RELAY`relay`[]HK IEPL`[]RU
 DE RELAY`relay`[]HK IEPL`[]DE
 OTS RELAY`relay`[]HK IEPL`[]OTS
