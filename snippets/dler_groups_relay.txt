@@ -29,14 +29,14 @@ OTS BGP`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国
 
 HK`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
 MO`select`澳门.*\+`澳门
-TW`select`^(?!.*BGP).*台湾.*$
+TW`select`^(?!.*BGP).*台湾
 SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
 JP`select`^(?!.*(BGP|IPLC)).*日本.*$
 KR`select`^(?!.*BGP).*韩国.*$
 US`select`^(?!.*(BGP|IPLC)).*美国.*$
 UK`select`^(?!.*BGP).*英国.*$
 RU`select`俄罗斯.*\+`俄罗斯
-DE`select`德国
+DE`select`^(?!.*BGP).*德国.*$
 OTS`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国|俄罗斯|德国|BGP)).*$
 
 HK RELAY`relay`[]HK IEPL`[]HK
