@@ -23,15 +23,15 @@ KR BGP`select`韩国.*BGP
 US BGP`select`美国.*BGP
 UK BGP`select`英国.*BGP
 OTS BGP`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*BGP$
-HK RELAY`relay`[]Manual`[]HK
-TW RELAY`relay`[]Manual`[]TW
-SG RELAY`relay`[]Manual`[]SG
-JP RELAY`relay`[]Manual`[]JP
-KR RELAY`relay`[]Manual`[]KR
-US RELAY`relay`[]Manual`[]US
-UK RELAY`relay`[]Manual`[]UK
-RU RELAY`relay`[]Manual`[]RU
-OTS RELAY`relay`[]Manual`[]OTS
+HK RELAY`relay`[]HK IEPL`[]HK
+TW RELAY`relay`[]HK IEPL`[]TW
+SG RELAY`relay`[]HK IEPL`[]SG
+JP RELAY`relay`[]HK IEPL`[]JP
+KR RELAY`relay`[]HK IEPL`[]KR
+US RELAY`relay`[]HK IEPL`[]US
+UK RELAY`relay`[]HK IEPL`[]UK
+RU RELAY`relay`[]HK IEPL`[]RU
+OTS RELAY`relay`[]HK IEPL`[]OTS
 HK`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
 MO`select`澳门.*\+`澳门
 TW`select`^(?!.*BGP).*台湾$
