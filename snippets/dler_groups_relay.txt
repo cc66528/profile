@@ -34,7 +34,7 @@ RU RELAY`relay`[]HK IEPL`[]RU
 OTS RELAY`relay`[]HK IEPL`[]OTS
 HK`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
 MO`select`澳门.*\+`澳门
-TW`select`^(?!.*BGP).*台湾$
+TW`select`^(?!.*BGP).*台湾.*$
 SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
 JP`select`^(?!.*(BGP|IPLC)).*日本.*$
 KR`select`^(?!.*BGP).*韩国.*$
