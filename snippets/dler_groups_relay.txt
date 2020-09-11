@@ -1,26 +1,32 @@
-Manual`select`[]HKPrivate`[]HongKong`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
-Apple`select`[]DIRECT`[]Manual`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
-Telegram`select`[]Manual`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+Manual`select`[]HK+`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
+Apple`select`[]DIRECT`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS
+Telegram`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Manual`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
-Netflix`select`[]Manual`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
-YouTube`select`[]Manual`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay
-GlobalMedia`select`[]Manual`[]HongKong`[]HKPrivate`[]Macao`[]Taiwan`[]Singapore`[]Japan`[]Korea`[]America`[]Britain`[]Others`[]Relay`[]DIRECT
+BiliBili`select`[]DIRECT`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS
+Netflix`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
+YouTube`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS
+GlobalMedia`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
 
 Final`select`[]Manual`[]DIRECT
 
-HongKong`select`香港 BGP`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
-HKPrivate`select`香港 IEPL\+`香港 IEPL`香港 IPLC
-Macao`select`澳门.*\+`澳门
-Taiwan`select`台湾 BGP`台湾
-Singapore`select`新加坡 IPLC\+`新加坡 IPLC`新加坡 BGP`新加坡
-Japan`select`日本 IPLC`日本 BGP`日本
-Korea`select`韩国 BGP`韩国
-America`select`美国 IPLC`美国 BGP`美国
-Britain`select`英国 BGP`英国
-Others`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*BGP$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*\+$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*$
+HK`select`香港.*BGP`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
+HK+`select`香港.*IEPL\+`香港 IEPL`香港.*IPLC
+MO`select`澳门.*\+`澳门
+TW`select`台湾.*BGP`台湾
+SG`select`新加坡.*IPLC\+`新加坡.*IPLC`新加坡.*BGP`新加坡
+JP`select`日本.*IPLC`日本.*BGP`日本
+KR`select`韩国.*BGP`韩国
+US`select`美国.*IPLC`美国.*BGP`美国
+UK`select`英国.*BGP`英国
+OTS`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*BGP$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*\+$`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|美国|英国)).*$
 
-Relay`relay`[]RelayI`[]RelayO
-RelayI`select`IEPL\+`IEPL`IPLC \+`IPLC`BGP
-RelayO`select`^(?!.*(BGP|IPLC|IEPL)).*$
+HKR`relay`[]Manual`[]HK
+MOR`relay`[]Manual`[]MO
+TWR`relay`[]Manual`[]TW
+SGR`relay`[]Manual`[]SG
+JPR`relay`[]Manual`[]JP
+KRR`relay`[]Manual`[]KR
+USR`relay`[]Manual`[]US
+UKR`relay`[]Manual`[]UK
+OTSR`relay`[]Manual`[]OTS
