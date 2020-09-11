@@ -1,12 +1,12 @@
-Manual`select`[]HK+`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
-Apple`select`[]DIRECT`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS
-Telegram`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
+Manual`select`[]HK+`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT`[]HKR`[]MOR`[]TWR`[]SGR`[]JPR`[]KRR`[]URR`[]UKR[]OTSR
+Apple`select`[]DIRECT`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]HKR`[]MOR`[]TWR`[]SGR`[]JPR`[]KRR`[]URR`[]UKR[]OTSR
+Telegram`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]HKR`[]MOR`[]TWR`[]SGR`[]JPR`[]KRR`[]URR`[]UKR[]OTSR`[]DIRECT
 
-BiliBili`select`[]DIRECT`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS
-Netflix`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
-YouTube`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS
-GlobalMedia`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]DIRECT
+BiliBili`select`[]DIRECT`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]HKR`[]MOR`[]TWR`[]SGR`[]JPR`[]KRR`[]URR`[]UKR[]OTSR
+Netflix`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]HKR`[]MOR`[]TWR`[]SGR`[]JPR`[]KRR`[]URR`[]UKR[]OTSR`[]DIRECT
+YouTube`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]HKR`[]MOR`[]TWR`[]SGR`[]JPR`[]KRR`[]URR`[]UKR[]OTSR`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]HKR`[]MOR`[]TWR`[]SGR`[]JPR`[]KRR`[]URR`[]UKR[]OTSR
+GlobalMedia`select`[]Manual`[]HK`[]HK+`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]OTS`[]HKR`[]MOR`[]TWR`[]SGR`[]JPR`[]KRR`[]URR`[]UKR[]OTSR`[]DIRECT
 
 Final`select`[]Manual`[]DIRECT
 
