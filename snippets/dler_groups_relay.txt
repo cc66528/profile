@@ -23,7 +23,7 @@ SG BGP`select`新加坡.*BGP
 JP BGP`select`日本.*BGP
 KR BGP`select`韩国.*BGP
 US BGP`select`美国.*BGP
-UK BGP``select`英国.*BGP
+UK BGP`select`英国.*BGP
 DE BGP`select`德国.*BGP
 OTS BGP`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*BGP$
 
