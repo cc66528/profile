@@ -28,7 +28,6 @@ KR BGP`select`韩国.*BGP
 US BGP`select`美国.*BGP
 UK BGP`select`英国.*BGP
 DE BGP`select`德国.*BGP
-OTS BGP`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国)).*BGP$
 
 HK`select`^(?!.*(BGP|IPLC|IEPL)).*香港.*$
 MO`select`澳门.*\+`澳门
@@ -40,6 +39,7 @@ US`select`^(?!.*(BGP|IPLC)).*美国.*$
 UK`select`^(?!.*BGP).*英国.*$
 RU`select`俄罗斯.*\+`俄罗斯
 DE`select`^(?!.*BGP).*德国.*$
+OTS`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国|俄罗斯|德国)).*$
 
 HK RELAY`relay`[]HK IEPL`[]HK
 TW RELAY`relay`[]HK IEPL`[]TW
