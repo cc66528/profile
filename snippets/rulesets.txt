@@ -1,6 +1,8 @@
 DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 DIRECT,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list
 DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
+DIRECT,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Steam.list
+DIRECT,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Blizzard.list
 
 YouTube,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/YouTube.list
 YouTube,surge:https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Media/YouTube%20Music.list
