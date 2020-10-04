@@ -19,9 +19,9 @@ dns:
 #   - 119.29.29.29
   - 223.5.5.5
   fallback:
-  - https://i.233py.com/dns-query
-#   - https://rubyfish.cn/dns-query
-  - https://162.14.13.12/dns-query
+#   - https://i.233py.com/dns-query
+  - https://rubyfish.cn/dns-query
+#   - https://162.14.13.12/dns-query
   fallback-filter:
     geoip: true
     ipcidr:
