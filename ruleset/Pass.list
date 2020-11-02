@@ -4,4 +4,6 @@ DOMAIN,dl.acm.org
 # > EPUBEE
 DOMAIN-SUFFIX,epubee.com
 
-DOMAIN,http://www.msftconnecttest.com/redirect
+# > LAN
+DOMAIN,www.msftconnecttest.com
+DOMAIN,snapdrop.net
