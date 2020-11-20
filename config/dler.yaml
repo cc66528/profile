@@ -28,7 +28,8 @@ custom:
   # quanx_rule_base: base/quanx.conf
 
   rename_node:
-  - {match: "(.*)( -.*)?( ->.*)?", replace: "$1$3"}
+  - {match: "(.*)( -.*)( ->.*)", replace: "$1$3"}
+  - {match: "(.*)( -.*)", replace: "$1"}
   - {import: snippets/rename_node.txt}
 
   add_emoji: false
