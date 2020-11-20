@@ -20,12 +20,12 @@ SG IPLC`select`新加坡 IPLC$
 JP IPLC`select`日本.*IPLC
 US IPLC`select`美国.*IPLC
 
-HK BGP`select`香港.*BGP$`
+HK BGP`select`香港.*BGP
 TW BGP`select`台湾.*BGP
 SG BGP`select`新加坡.*BGP
 JP BGP`select`日本.*BGP
 KR BGP`select`韩国.*BGP
-US BGP`select`美国.*BGP$
+US BGP`select`美国.*BGP
 UK BGP`select`英国.*BGP
 DE BGP`select`德国.*BGP
 
@@ -35,13 +35,13 @@ UK GIA`select`英国.*GIA
 RU GIA`select`俄罗斯.*GIA
 DE GIA`select`德国.*GIA
 
-HK`select`^(?!.*(BGP$|IPLC|IEPL|GIA)).*香港.*$
+HK`select`^(?!.*(BGP|IPLC|IEPL|GIA)).*香港.*$
 MO`select`澳门.*\+`澳门
 TW`select`^(?!.*BGP).*台湾.*$
 SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
 JP`select`^(?!.*(BGP|IPLC)).*日本.*$
 KR`select`^(?!.*BGP).*韩国.*$
-US`select`^(?!.*(BGP$|IPLC|GIA)).*美国.*$
+US`select`^(?!.*(BGP|IPLC|GIA)).*美国.*$
 UK`select`^(?!.*(BGP|GIA)).*英国.*$
 RU`select`^(?!.*GIA).*俄罗斯.*$
 DE`select`^(?!.*(BGP|GIA)).*德国.*$
