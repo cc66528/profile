@@ -12,8 +12,6 @@ custom:
   rulesets:
   {% if default(request.ruleset,"") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de.txt"}
-  {% else if default(request.ruleset,"") == "2"  %}
-  - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de_2.txt"}
   {% else %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/rulesets.txt"}
   {% endif %}
