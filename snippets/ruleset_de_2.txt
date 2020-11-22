@@ -1,9 +1,9 @@
-DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Surge/LocalAreaNetwork.list
+DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
 
 DIRECT,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
 
-YouTube,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/YouTubeMusic.list
+YouTube,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/YouTube-Music.list
 YouTube,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
 Netflix,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
