@@ -8,11 +8,10 @@ custom:
   {% else %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups.txt"}
   {% endif %}
-  {% if default(request.ruleset, "") == "1" %}
   rulesets:
+  {% if default(request.ruleset, "") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/rulesets_de.txt"}
   {% else %}
-  rulesets:
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/rulesets.txt"}
   {% endif %}
   {% if request.target == "clash" or request.target == "clashr" %}
