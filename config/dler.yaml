@@ -3,14 +3,14 @@ custom:
   overwrite_original_rules: true
 
   proxy_groups:
-  {% if request.relay == "1" %}
+  {% if default(request.relay, "0") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups_relay.txt"}
   {% else %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups.txt"}
   {% endif %}
   
   rulesets:
-  {% if request.ruleset == "1" %}
+  {% if default(request.ruleset,"0") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de.txt"}
   {% else if request.ruleset == "2"  %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de_2.txt"}
