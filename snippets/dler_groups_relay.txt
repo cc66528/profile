@@ -15,8 +15,8 @@ HK IEPL+`select`香港.*IEPL\+
 SG IPLC+`select`新加坡 IPLC\+
 HK IEPL`select`香港 IEPL `
 
-HK IPLC`select`香港.*IPLC`
-SG IPLC`select`新加坡 IPLC$
+HK IPLC`select`香港.*IPLC `
+SG IPLC`select`新加坡.*IPLC `
 JP IPLC`select`日本.*IPLC
 US IPLC`select`美国.*IPLC
 
