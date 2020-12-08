@@ -1,10 +1,10 @@
-Manual`select`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]UK GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Telegram`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]UK GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+Manual`select`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Telegram`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 
-Netflix`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]UK GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-YouTube`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]UK GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]UK GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-GlobalMedia`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]UK GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+Netflix`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+YouTube`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+GlobalMedia`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 
 Final`select`[]Manual`[]DIRECT
 
@@ -13,8 +13,8 @@ HK IEPL+`select`香港.*IEPL\+
 SG IPLC+`select`新加坡 IPLC\+
 HK IEPL`select`香港 IEPL `
 
-HK IPLC`select`香港.*IPLC`
-SG IPLC`select`新加坡 IPLC$
+HK IPLC`select`香港.*IPLC `
+SG IPLC`select`新加坡.*IPLC `
 JP IPLC`select`日本.*IPLC
 US IPLC`select`美国.*IPLC
 
@@ -29,7 +29,6 @@ DE BGP`select`德国.*BGP
 
 HK GIA`select`香港.*GIA
 US GIA`select`美国.*GIA
-UK GIA`select`英国.*GIA
 RU GIA`select`俄罗斯.*GIA
 DE GIA`select`德国.*GIA
 
