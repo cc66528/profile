@@ -1,0 +1,29 @@
+custom:
+  enable_rule_generator: true
+  overwrite_original_rules: true
+
+  proxy_groups:
+  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
+  
+  rulesets:
+  - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,", group: "DIRECT"}
+
+  {% if default(request.geoip,"") == "1" %}
+  - {rule: "GEOIP,CN", group: "DIRECT"}
+  {% else %}
+  - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}
+  {% endif %}
+  
+  - {rule: "FINAL", group: "PROXY"}
+
+
+  clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
+  surge_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/surge.conf
+
+  rename_node:
+  - {match: "(.*)( -.*)( ->.*)", replace: "$1$3"}
+  - {match: "(.*)( -.*)", replace: "$1"}
+  - {import: snippets/rename_node.txt}
+
+  add_emoji: false
+  remove_old_emoji: false
