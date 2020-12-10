@@ -23,9 +23,9 @@ dns:
   - https://rubyfish.cn/dns-query
 #   - https://162.14.13.12/dns-query
   fallback-filter:
-    geoip: true
+    geoip: false
     ipcidr:
-      - 240.0.0.0/4
+      - 0.0.0.0/32
 clash-for-android:
   append-system-dns: false
   ui-subtitle-pattern: ^.*(?:->\s)|^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
