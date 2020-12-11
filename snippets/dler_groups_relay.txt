@@ -34,7 +34,7 @@ US GIA`select`美国.*GIA
 RU GIA`select`俄罗斯.*GIA
 DE GIA`select`德国.*GIA
 
-HK`select`^(?!.*(BGP|IPLC|IEPL|GIA)).*香港.*$
+HK`select`^(?!.*(BGP|IPLC|IEPL |IEPL\+|GIA)).*香港.*$
 MO`select`澳门.*\+`澳门
 TW`select`^(?!.*BGP).*台湾.*$
 SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
