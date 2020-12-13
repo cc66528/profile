@@ -3,8 +3,8 @@ custom:
   overwrite_original_rules: true
 
   proxy_groups:
-  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
-  
+#   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
+  - {name: Proxy, type: select, rule: ["香港","新加坡","日本","美国","台湾",".*"]}
   rulesets:
   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,", group: "DIRECT"}
 
