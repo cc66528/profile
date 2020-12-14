@@ -1,24 +1,24 @@
-Manual`select`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-;Apple`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Telegram`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+Manual`select`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+; Apple`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Telegram`select`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 
-;BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Netflix`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-YouTube`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-GlobalMedia`select`[]Manual`[]HK IEPL+`[]SG IPLC+`[]HK IEPL`[]HK IPLC`[]SG IPLC`[]JP IPLC`[]US IPLC`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+; BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Netflix`select`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+YouTube`select`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+GlobalMedia`select`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK RELAY`[]TW RELAY`[]SG RELAY`[]JP RELAY`[]KR RELAY`[]US RELAY`[]UK RELAY`[]RU RELAY`[]DE RELAY`[]OTS RELAY`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 
 Final`select`[]Manual`[]DIRECT
 
-
 HK IEPL+`select`香港.*IEPL\+
-SG IPLC+`select`新加坡 IPLC\+
+SG CEN-`select`新加坡 CEN\-
 HK IEPL`select`香港 IEPL `
 
-HK IPLC`select`香港.*IPLC `
-SG IPLC`select`新加坡.*IPLC `
-JP IPLC`select`日本.*IPLC
-US IPLC`select`美国.*IPLC
+
+; HK IPLC`select`香港.*IPLC `
+; SG IPLC`select`新加坡.*IPLC `
+; JP IPLC`select`日本.*IPLC
+; US IPLC`select`美国.*IPLC
 
 HK BGP`select`香港.*BGP
 TW BGP`select`台湾.*BGP
@@ -34,13 +34,13 @@ US GIA`select`美国.*GIA
 RU GIA`select`俄罗斯.*GIA
 DE GIA`select`德国.*GIA
 
-HK`select`^(?!.*(BGP|IPLC|IEPL |IEPL\+|GIA)).*香港.*$
+HK`select`^(?!.*(BGP|CEN|IEPL |IEPL\+|GIA)).*香港.*$
 MO`select`澳门.*\+`澳门
 TW`select`^(?!.*BGP).*台湾.*$
-SG`select`^(?!.*(BGP|IPLC)).*新加坡.*$
-JP`select`^(?!.*(BGP|IPLC)).*日本.*$
+SG`select`^(?!.*(BGP|CEN)).*新加坡.*$
+JP`select`^(?!.*(BGP|CEN)).*日本.*$
 KR`select`^(?!.*BGP).*韩国.*$
-US`select`^(?!.*(BGP|IPLC|GIA)).*美国.*$
+US`select`^(?!.*(BGP|CEN|GIA)).*美国.*$
 UK`select`^(?!.*(BGP|GIA)).*英国.*$
 RU`select`^(?!.*GIA).*俄罗斯.*$
 DE`select`^(?!.*(BGP|GIA)).*德国.*$
