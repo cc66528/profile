@@ -3,8 +3,8 @@ custom:
   overwrite_original_rules: true
 
   proxy_groups:
-#   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
-  - {name: PROXY, type: select, rule: ["IEPL\+","IEPL","CEN","BGP","AGA","GIA",".*"]}
+  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
+#   - {name: PROXY, type: select, rule: ["IEPL\+","IEPL","CEN","BGP","AGA","GIA",".*"]}
   
   rulesets:
   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list", group: "DIRECT"}
