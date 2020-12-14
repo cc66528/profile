@@ -4,7 +4,7 @@ custom:
 
   proxy_groups:
 #   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
-  - {name: PROXY, type: select, rule: ["香港","新加坡","日本","美国","台湾",".*"]}
+  - {name: PROXY, type: select, rule: ["IEPL","CEN","BGP","AGA","GIA",".*"]}
   rulesets:
   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,", group: "DIRECT"}
 
