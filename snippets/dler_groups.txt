@@ -1,24 +1,20 @@
-Manual`select`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-; Apple`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Telegram`select`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+Manual`select`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+; Apple`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Telegram`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 
-; BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Netflix`select`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-YouTube`select`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-GlobalMedia`select`[]Manual`[]HK IEPL+`[]SG CEN-`[]HK IEPL`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK GIA`[]US GIA`[]RU GIA`[]DE GIA`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+; BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Netflix`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+YouTube`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+GlobalMedia`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK BGP`[]TW BGP`[]SG BGP`[]JP BGP`[]KR BGP`[]US BGP`[]UK BGP`[]DE BGP`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 
 Final`select`[]Manual`[]DIRECT
 
-HK IEPL+`select`香港.*IEPL\+
-SG CEN-`select`新加坡 CEN\-
-HK IEPL`select`香港 IEPL `
+; HK IEPL+`select`香港.*IEPL\+
+HK IEPL`select`香港 IEPL`
 
-
-; HK IPLC`select`香港.*IPLC `
-; SG IPLC`select`新加坡.*IPLC `
-; JP IPLC`select`日本.*IPLC
-; US IPLC`select`美国.*IPLC
+HK CEN`select`香港 CEN
+SG CEN`select`新加坡 CEN
 
 HK BGP`select`香港.*BGP
 TW BGP`select`台湾.*BGP
@@ -28,11 +24,6 @@ KR BGP`select`韩国.*BGP
 US BGP`select`美国.*BGP
 UK BGP`select`英国.*BGP
 DE BGP`select`德国.*BGP
-
-HK GIA`select`香港.*GIA
-US GIA`select`美国.*GIA
-RU GIA`select`俄罗斯.*GIA
-DE GIA`select`德国.*GIA
 
 HK`select`^(?!.*(BGP|CEN|IEPL |IEPL\+|GIA)).*香港.*$
 MO`select`澳门.*\+`澳门
