@@ -7,8 +7,8 @@ custom:
   - {name: PROXY, type: select, rule: ["IEPL", "BGP", ".*"]}
   
   rulesets:
-  - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/PcGame.list", group: "PROXY"}
   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list", group: "DIRECT"}
+  - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/PcGame.list", group: "PROXY"}
 
   {% if default(request.geoip,"") == "1" %}
   - {rule: "GEOIP,CN", group: "DIRECT"}
