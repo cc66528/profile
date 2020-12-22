@@ -14,6 +14,5 @@ ChinaMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/
 Telegram,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
 
 Manual,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
-Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/PcGame.list
 DIRECT,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 ;DIRECT,clash-ipcidr:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.yaml
