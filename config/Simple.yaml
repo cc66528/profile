@@ -4,18 +4,16 @@ custom:
 
   proxy_groups:
   # - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
-  - {name: PROXY, type: select, rule: ["IEPL", "CEN", "BGP", ".*"]}
+  - {name: PROXY, type: select, rule: ["IEPL\\+", "IEPL", "CEN", "BGP", ".*"]}
+  - {name: NETFLIX, type: select, rule: ["IEPL\\+", "IEPL", "CEN", "BGP", ".*"]}
   
   rulesets:
   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list", group: "DIRECT"}
+  - {ruleset: "surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list", group: "NETFLIX"}
+  - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list", group: "NETFLIX"}
 #   - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/PcGame.list", group: "PROXY"}
 
-  {% if default(request.geoip,"") == "1" %}
-  - {rule: "GEOIP,CN", group: "DIRECT"}
-  {% else %}
-  - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}
-  {% endif %}
-  
+  - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}  
   - {rule: "FINAL", group: "PROXY"}
 
 
