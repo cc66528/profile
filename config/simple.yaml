@@ -11,7 +11,7 @@ custom:
   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list", group: "DIRECT"}
   - {ruleset: "surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list", group: "NETFLIX"}
   - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list", group: "NETFLIX"}
-#   - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/PcGame.list", group: "PROXY"}
+  - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/PcGame.list", group: "DIRECT"}
 
   - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}  
   - {rule: "FINAL", group: "PROXY"}
