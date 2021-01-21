@@ -1,0 +1,18 @@
+Manual`select`[]HK`[]MO`[]TW`[]SG`[]JP`[]US`[]OTS
+; Apple`select`[]DIRECT`[]Manual`[]HK`[]MO`[]TW`[]SG`[]JP`[]US`[]OTS
+Telegram`select`[]Manual`[]HK`[]MO`[]TW`[]SG`[]JP`[]US`[]OTS`[]DIRECT
+
+; BiliBili`select`[]DIRECT`[]Manual`[]HK`[]MO`[]TW`[]SG`[]JP`[]US`[]OTS
+Netflix`select`[]Manual`[]HK`[]MO`[]TW`[]SG`[]JP`[]US`[]OTS`[]DIRECT
+YouTube`select`[]Manual`[]HK`[]MO`[]TW`[]SG`[]JP`[]US`[]OTS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK`[]MO`[]TW`[]SG`[]JP`[]US`[]OTS
+GlobalMedia`select`[]Manual`[]HK`[]MO`[]TW`[]SG`[]JP`[]US`[]OTS`[]DIRECT
+
+Final`select`[]Manual`[]DIRECT
+
+HK`select`香港
+SG`select`新加坡
+TW`select`台湾
+JP`select`日本
+US`select`美国
+OTS`select`^(?!.*(香港|台湾|新加坡|日本|美国)).*$
