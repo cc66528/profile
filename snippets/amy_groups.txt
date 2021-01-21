@@ -1,12 +1,12 @@
-Manual`select`[]HK`[]TW`[]SG`[]JP`[]US`[]OTS
-; Apple`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]OTS
-Telegram`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]OTS`[]DIRECT
+Manual`select`[]HK`[]TW`[]SG`[]JP`[]US
+; Apple`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
+Telegram`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
 
-; BiliBili`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]OTS
-Netflix`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]OTS`[]DIRECT
-YouTube`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]OTS`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]OTS
-GlobalMedia`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]OTS`[]DIRECT
+; BiliBili`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
+Netflix`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
+YouTube`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
+GlobalMedia`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
 
 Final`select`[]Manual`[]DIRECT
 
@@ -15,4 +15,3 @@ SG`select`新加坡
 TW`select`台湾
 JP`select`日本
 US`select`美国
-OTS`select`^(?!.*(香港|台湾|新加坡|日本|美国)).*$
