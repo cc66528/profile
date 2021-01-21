@@ -1,0 +1,34 @@
+custom:
+  enable_rule_generator: true
+  overwrite_original_rules: true
+
+  proxy_groups:
+  - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/amy_groups.txt"}
+
+  rulesets:
+  {% if default(request.ruleset,"") == "1" %}
+  - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de.txt"}
+  {% else if default(request.ruleset,"") == "2"  %}
+  - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de_2.txt"}
+  {% else %}
+  - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/rulesets.txt"}
+  {% endif %}
+
+  {% if default(request.geoip,"") == "1" %}
+  - {rule: "GEOIP,CN", group: "DIRECT"}
+  {% else %}
+  - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}
+  {% endif %}
+  - {rule: "FINAL", group: "Final"}
+
+
+  clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
+  surge_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/surge.conf
+
+  rename_node:
+  # - {match: "(.*)( -.*)( ->.*)", replace: "$1$3"}
+  # - {match: "(.*)( -.*)", replace: "$1"}
+  - {import: snippets/rename_node.txt}
+
+  add_emoji: false
+  remove_old_emoji: false
