@@ -1,4 +1,4 @@
-Manual`select`[]HK`[]TW`[]SG`[]JP`[]US
+Manual`select`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
 ; Apple`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
 Telegram`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
 
