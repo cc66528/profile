@@ -1,12 +1,14 @@
-Manual`select`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-; Apple`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Telegram`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 
-; BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Netflix`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-YouTube`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-GlobalMedia`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+{% set groups="[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS" %}
+Manual`select`{{ groups }}
+; Apple`select`[]DIRECT`[]Manual`{{ groups }}
+Telegram`select`[]Manual`{{ groups }}`[]DIRECT
+
+; BiliBili`select`[]DIRECT`[]Manual`{{ groups }}
+Netflix`select`[]Manual`{{ groups }}`[]DIRECT
+YouTube`select`[]Manual`{{ groups }}`[]DIRECT
+ChinaMedia`select`[]DIRECT`{{ groups }}`[]OTS
+GlobalMedia`select`[]Manual`{{ groups }}`[]DIRECT
 
 Final`select`[]Manual`[]DIRECT
 
