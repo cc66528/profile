@@ -1,15 +1,11 @@
-{% set groups="[]HK`[]TW`[]SG`[]JP`[]US" %}
-
-Manual`select`{{ groups }}
-; Apple`select`[]DIRECT`[]Manual`{{ groups }}
-Telegram`select`[]Manual`{{ groups }}`[]DIRECT
-
-; BiliBili`select`[]DIRECT`[]Manual`{{ groups }}
-Netflix`select`[]Manual`{{ groups }}`[]DIRECT
-YouTube`select`[]Manual`{{ groups }}`[]DIRECT
-ChinaMedia`select`[]DIRECT`{{ groups }}`[]US
-GlobalMedia`select`[]Manual`{{ groups }}`[]DIRECT
-
+Manual`select`[]HK`[]TW`[]SG`[]JP`[]US
+; Apple`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
+Telegram`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
+; BiliBili`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
+Netflix`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
+YouTube`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
+GlobalMedia`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
 Final`select`[]Manual`[]DIRECT
 
 HK`select`香港
