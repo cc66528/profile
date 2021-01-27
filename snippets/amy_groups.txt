@@ -1,12 +1,14 @@
-Manual`select`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
-; Apple`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
-Telegram`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
+{% set groups="[]HK`[]TW`[]SG`[]JP`[]US" %}
 
-; BiliBili`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
-Netflix`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
-YouTube`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US
-GlobalMedia`select`[]Manual`[]HK`[]TW`[]SG`[]JP`[]US`[]DIRECT
+Manual`select`{{ groups }}
+; Apple`select`[]DIRECT`[]Manual`{{ groups }}
+Telegram`select`[]Manual`{{ groups }}`[]DIRECT
+
+; BiliBili`select`[]DIRECT`[]Manual`{{ groups }}
+Netflix`select`[]Manual`{{ groups }}`[]DIRECT
+YouTube`select`[]Manual`{{ groups }}`[]DIRECT
+ChinaMedia`select`[]DIRECT`{{ groups }}`[]US
+GlobalMedia`select`[]Manual`{{ groups }}`[]DIRECT
 
 Final`select`[]Manual`[]DIRECT
 
