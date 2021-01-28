@@ -5,10 +5,13 @@ custom:
   proxy_groups:
   {% if default(request.group, "") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple_groups.txt"}
+  clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
   {% else if default(request.relay, "") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups_relay.txt"}
+  clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
   {% else %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups.txt"}
+  clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clashLB.yaml
   {% endif %}
   
   rulesets:
@@ -28,7 +31,6 @@ custom:
   - {rule: "FINAL", group: "Final"}
 
 
-  clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
   surge_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/surge.conf
 
   rename_node:
