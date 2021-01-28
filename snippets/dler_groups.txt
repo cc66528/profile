@@ -24,5 +24,3 @@ UK`select`英国 BGP`英国
 RU`select`俄罗斯 BGP`俄罗斯
 DE`select`德国 BGP`德国
 OTS`select`^(?!.*(香港|澳门|台湾|新加坡|日本|韩国|英国|美国|俄罗斯|德国)).*$
-
-LB`load-balance`香港 IEPL`http://cp.cloudflare.com/generate_204`300,,100
