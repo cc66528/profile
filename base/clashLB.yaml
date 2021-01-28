@@ -30,7 +30,9 @@ clash-for-android:
   append-system-dns: false
   ui-subtitle-pattern: ^.*(?:->\s)|^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
 proxies: ~
-proxy-groups:
+proxy-groups: ~
+
+
   - name: "load-balance"
     type: load-balance
     proxies:
@@ -41,5 +43,4 @@ proxy-groups:
     url: 'http://cp.cloudflare.com/generate_204'
     interval: 300
     strategy: round-robin
-~
 rules: ~
