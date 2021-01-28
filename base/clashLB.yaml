@@ -30,9 +30,7 @@ clash-for-android:
   append-system-dns: false
   ui-subtitle-pattern: ^.*(?:->\s)|^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
 proxies: ~
-proxy-groups: ~
-
-
+proxy-groups: 
   - name: "load-balance"
     type: load-balance
     proxies:
