@@ -4,8 +4,9 @@ custom:
 
   proxy_groups:
   # - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
-  - {name: PROXY, type: select, rule: ["IEPL\\+", "IEPL", "CEN", "BGP", ".*"]}
-  - {name: NETFLIX, type: select, rule: ["IEPL\\+", "IEPL", "CEN", "BGP", ".*"]}
+  - {name: PROXY, type: select, rule: ["IEPL", "CEN", "BGP", ".*"]}
+  - {name: NETFLIX, type: select, rule: ["IEPL", "CEN", "BGP", ".*"]}
+  - {name: LB, type: load-balance, rule: ["香港 IEPL"], url: http://www.google.com/generate_204, interval: 300, tolerance: 100, timeout: 5, strategy: round-robin}
   
   rulesets:
   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list", group: "DIRECT"}
@@ -22,7 +23,7 @@ custom:
 
   rename_node:
   # - {match: "(.*)( -.*)( ->.*)", replace: "$1$3"}
-  # - {match: "(.*)( -.*)", replace: "$1"}
+  - {match: "(.*)( -.*)", replace: "$1"}
   - {import: snippets/rename_node.txt}
 
   add_emoji: false
