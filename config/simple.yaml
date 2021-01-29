@@ -4,8 +4,8 @@ custom:
 
   proxy_groups:
   # - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
-  - {name: PROXY, type: select, rule: ["IEPL", "CEN", "BGP", ".*"]}
-  - {name: NETFLIX, type: select, rule: ["IEPL", "CEN", "BGP", ".*"]}
+  - {name: PROXY, type: select, rule: ["CEN", "IEPL", "[]LB", "BGP", ".*"]}
+  - {name: NETFLIX, type: select, rule: ["CEN", "IEPL", "[]LB","BGP", ".*"]}
   - {name: LB, type: load-balance, rule: ["香港 IEPL"], url: http://www.google.com/generate_204, interval: 300, strategy: round-robin}
   
   rulesets:
