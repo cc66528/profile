@@ -1,20 +1,15 @@
 # > ACM
 DOMAIN,dl.acm.org
-
 # > EPUBEE
 DOMAIN-SUFFIX,epubee.com
-
 # > LAN
 DOMAIN,www.msftconnecttest.com
 DOMAIN,snapdrop.net
-
 # > nfmovies 
 DOMAIN-SUFFIX,nfmovies.com
-
 # > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
-
 # > Tencent
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
@@ -24,7 +19,6 @@ DOMAIN,analytics.strava.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
-
 # > General
 DOMAIN,app.adjust.com
 DOMAIN,bdtj.tagtic.cn
