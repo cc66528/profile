@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,epubee.com
 # > LAN
 DOMAIN,www.msftconnecttest.com
 DOMAIN,snapdrop.net
+
+# > nfmovies 
+DOMAIN-SUFFIX,nfmovies.com
