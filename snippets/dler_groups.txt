@@ -1,12 +1,12 @@
 
-Manual`select`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]LB
-; Apple`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]LB
-Telegram`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT`[]LB
-; BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]LB
-Netflix`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT`[]LB
-YouTube`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT`[]LB
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]LB
-GlobalMedia`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]MO`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT`[]LB
+Manual`select`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]LB
+; Apple`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]LB
+Telegram`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT`[]LB
+; BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]LB
+Netflix`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT`[]LB
+YouTube`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT`[]LB
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]LB
+GlobalMedia`select`[]Manual`[]HK IEPL`[]HK CEN`[]SG CEN`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT`[]LB
 Final`select`[]Manual`[]DIRECT
 
 HK IEPL`select`香港 IEPL`http://cp.cloudflare.com/generate_204`300,,,round-robin
@@ -15,7 +15,6 @@ SG CEN`select`新加坡 CEN
 
 HK`select`香港 BGP`^(?!.*(CEN|IEPL)).*香港.*$
 SG`select`新加坡 BGP`^(?!.*(CEN)).*新加坡.*$
-MO`select`澳门 BGP`澳门
 TW`select`台湾 BGP`台湾
 JP`select`日本 CEN`日本 BGP`日本
 KR`select`韩国 BGP`韩国
