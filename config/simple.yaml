@@ -10,6 +10,7 @@ custom:
   rulesets:
   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list", group: "DIRECT"}
   - {ruleset: "surge:https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Ruleset/PublicDirectCDN.list", group: "DIRECT"}
+  - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list", group: "DIRECT"}
   - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list", group: "NETFLIX"}
   - {ruleset: "surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list", group: "NETFLIX"}
 #   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list", group: "DIRECT"}
