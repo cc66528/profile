@@ -8,6 +8,7 @@ GlobalMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profile
 ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/BiliBili.list
 ChinaMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
 
+DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 Manual,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Telegram.list
 Telegram,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml
