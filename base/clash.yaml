@@ -21,8 +21,9 @@ dns:
 #   - 119.29.29.29
   - 223.6.6.6
   fallback:
+  - 223.6.6.6
   - https://223.6.6.6/dns-query
-#   - https://dns.pub/dns-query
+  - https://dns.pub/dns-query
   fallback-filter:
     geoip: false
     ipcidr:
