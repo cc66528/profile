@@ -7,6 +7,8 @@ log-level: info
 external-controller: :9090
 experimental:
   ignore-resolve-fail: true
+profile:
+  store-selected: true
 dns:
   enable: true
   listen: 0.0.0.0:1053
