@@ -9,6 +9,7 @@ experimental:
   ignore-resolve-fail: true
 profile:
   store-selected: true
+  tracing: true
 dns:
   enable: true
   listen: 0.0.0.0:1053
@@ -22,7 +23,7 @@ dns:
   - 223.6.6.6
   fallback:
   - https://223.6.6.6/dns-query
-  - https://dns.pub/dns-query
+#   - https://dns.pub/dns-query
   fallback-filter:
     geoip: false
     ipcidr:
