@@ -19,11 +19,11 @@ dns:
   nameserver:
   - 223.6.6.6
 #   - 114.114.114.114
-  - 119.29.29.29
+#   - 119.29.29.29
   fallback:
   - 223.6.6.6
-  - https://223.6.6.6/dns-query
-  - https://dns.pub/dns-query
+#   - https://223.6.6.6/dns-query
+#   - https://dns.pub/dns-query
   fallback-filter:
     geoip: false
     ipcidr:
