@@ -9,6 +9,7 @@ experimental:
   ignore-resolve-fail: true
 profile:
   store-selected: true
+  tracing: true
 dns:
   enable: true
   listen: 0.0.0.0:1053
