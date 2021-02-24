@@ -22,8 +22,8 @@ dns:
 #   - 114.114.114.114
 #   - 119.29.29.29
   fallback:
-#   - 223.6.6.6
-  - https://223.6.6.6/dns-query
+  - 223.6.6.6
+#   - https://223.6.6.6/dns-query
 #   - https://dns.pub/dns-query
   fallback-filter:
     geoip: false
