@@ -14,17 +14,10 @@ custom:
   rulesets:
   {% if default(request.ruleset,"") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de.txt"}
-  {% else if default(request.ruleset,"") == "2"  %}
+  {% else %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de_2.txt"}
-  {% else %}
-  - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/rulesets.txt"}
-  {% endif %}
 
-  {% if default(request.geoip,"") == "1" %}
-  - {rule: "GEOIP,CN", group: "DIRECT"}
-  {% else %}
-  - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}
-  {% endif %}
+  - {ruleset: "surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list", group: "DIRECT", interval: 86400}
   - {rule: "FINAL", group: "Final"}
 
   clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
