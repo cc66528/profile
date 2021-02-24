@@ -12,6 +12,6 @@ Manual,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Rule
 Telegram,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Telegram/Telegram.list
 
 Manual,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
-;DIRECT,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
-DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+DIRECT,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
+;DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ;DIRECT,clash-ipcidr:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.yaml
