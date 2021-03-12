@@ -1,5 +1,5 @@
 
-Manual`select`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]LB
+Manual`select`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
 ; Apple`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
 Telegram`select`[]Manual`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 ; BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
