@@ -15,7 +15,7 @@ SG CC`select`新加坡 CC
 HK IEPL`select`香港 IEPL`http://cp.cloudflare.com/generate_204`300,,,round-robin
 
 HK`select`香港 BGP`^(?!.*(IEPL)).*香港.*$
-SG`select`新加坡 BGP`新加坡$
+SG`select`新加坡 BGP`新加坡
 TW`select`台湾 BGP`台湾
 JP`select`日本 BGP`日本
 KR`select`韩国 BGP`韩国
