@@ -1,18 +1,20 @@
 
-Manual`select`[]HK IEPL`[]HK CC`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-; Apple`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CC`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Telegram`select`[]Manual`[]HK IEPL`[]HK CC`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-; BiliBili`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CC`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Netflix`select`[]Manual`[]HK IEPL`[]HK CC`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-YouTube`select`[]Manual`[]HK IEPL`[]HK CC`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK IEPL`[]HK CC`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-GlobalMedia`select`[]Manual`[]HK IEPL`[]HK CC`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+Manual`select`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+; Apple`select`[]DIRECT`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Telegram`select`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+; BiliBili`select`[]DIRECT`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Netflix`select`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+YouTube`select`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+GlobalMedia`select`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 Final`select`[]Manual`[]DIRECT
 
-HK IEPL`select`香港 IEPL`http://cp.cloudflare.com/generate_204`300,,,round-robin
 HK CC`select`香港 CC
-HK`select`香港 BGP`^(?!.*(IEPL)).*香港.*$
+SG CC`select`新加坡 CC
 
+HK IEPL`select`香港 IEPL`http://cp.cloudflare.com/generate_204`300,,,round-robin
+
+HK`select`香港 BGP`^(?!.*(IEPL)).*香港.*$
 SG`select`新加坡 BGP`新加坡$
 TW`select`台湾 BGP`台湾
 JP`select`日本 BGP`日本
