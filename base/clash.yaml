@@ -29,6 +29,7 @@ dns:
     geoip: false
     ipcidr:
       - 0.0.0.0/32
+      - 127.0.0.0/8
 clash-for-android:
   append-system-dns: false
   ui-subtitle-pattern: ^.*(?:->\s)|^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
