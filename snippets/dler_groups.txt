@@ -1,12 +1,12 @@
 
-Manual`select`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-; Apple`select`[]DIRECT`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Telegram`select`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-; BiliBili`select`[]DIRECT`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-Netflix`select`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-YouTube`select`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
-GlobalMedia`select`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+Manual`select`[]HK CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+; Apple`select`[]DIRECT`[]Manual`[]HK CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Telegram`select`[]Manual`[]HK CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+; BiliBili`select`[]DIRECT`[]Manual`[]HK CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+Netflix`select`[]Manual`[]HK CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+YouTube`select`[]Manual`[]HK CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
+ChinaMedia`select`[]DIRECT`[]Manual`[]HK CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS
+GlobalMedia`select`[]Manual`[]HK CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[]US`[]UK`[]RU`[]DE`[]OTS`[]DIRECT
 Final`select`[]Manual`[]DIRECT
 
 HK CC`select`香港 CC
