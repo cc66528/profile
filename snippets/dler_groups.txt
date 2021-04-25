@@ -10,16 +10,15 @@ GlobalMedia`select`[]Manual`[]HK CC`[]SG CC`[]HK IEPL`[]HK`[]TW`[]SG`[]JP`[]KR`[
 Final`select`[]Manual`[]DIRECT
 
 HK CC`select`香港 CC
-SG CC`select`新加坡 CC
 
-HK IEPL`select`香港 IEPL`http://cp.cloudflare.com/generate_204`300,,,round-robin
+HK IEPL`select`香港 IEPL
 
 HK`select`香港 BGP`^(?!.*(IEPL|CC)).*香港.*$
-SG`select`新加坡 BGP`^(?!.*(CC)).*新加坡.*$
+SG`select`新加坡 CC`新加坡 BGP`^(?!.*(CC)).*新加坡.*$
 TW`select`台湾 BGP`台湾
-JP`select`日本 BGP`日本
+JP`select`日本 CC`日本 BGP`日本
 KR`select`韩国 BGP`韩国
-US`select`美国 BGP`美国
+US`select`美国 CC`美国 BGP`美国
 UK`select`英国 BGP`英国
 RU`select`俄罗斯 BGP`俄罗斯
 DE`select`德国 BGP`德国
