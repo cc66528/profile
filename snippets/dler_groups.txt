@@ -15,7 +15,7 @@ HK IEPL`select`香港 IEPL
 
 HK`select`香港 BGP`^(?!.*(IEPL|CC)).*香港.*$
 SG`select`新加坡 CC`新加坡 BGP`^(?!.*(CC)).*新加坡.*$
-TW`select`台湾 BGP`台湾
+TW`select`台湾 CC`台湾 BGP`台湾
 JP`select`日本 CC`日本 BGP`日本
 KR`select`韩国 BGP`韩国
 US`select`美国 CC`美国 BGP`美国
