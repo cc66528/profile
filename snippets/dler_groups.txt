@@ -11,7 +11,7 @@ Final`select`[]Manual`[]DIRECT
 
 HK PRE`select`香港 AIA`香港 CC`香港 IEPL
 
-HK`select`香港 BGP`^(?!.*(IEPL|CC)).*香港.*$
+HK`select`香港 BGP`^(?!.*(IEPL|CC|AIA)).*香港.*$
 SG`select`新加坡 AIA`新加坡 CC`新加坡 BGP`^(?!.*(CC)).*新加坡.*$
 TW`select`台湾 AIA`台湾 CC`台湾 BGP`台湾
 JP`select`日本 AIA`日本 CC`日本 BGP`日本
