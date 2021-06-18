@@ -5,12 +5,12 @@ custom:
   proxy_groups:
   # - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple.txt"}
   - {name: PROXY, type: select, rule: ["AIA", "CC", "IEPL", "BGP", ".*"]}
-  - {name: Media, type: select, rule: ["[]PROXY", "AIA", "CC", "IEPL", "BGP", ".*"]}
+  - {name: MEDIA, type: select, rule: ["[]PROXY", "AIA", "CC", "IEPL", "BGP", ".*"]}
   
   rulesets:
   - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list", group: "DIRECT"}
-  - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list", group: "Media"}
-  - {ruleset: "clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml", group: "Media"}
+  - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list", group: "MEDIA"}
+  - {ruleset: "clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml", group: "MEDIA"}
 #   - {ruleset: "surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list", group: "DIRECT"}
   - {ruleset: "surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/steam.list", group: "PROXY"}
 
