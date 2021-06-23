@@ -24,6 +24,8 @@ custom:
   rename_node:
   # - {match: "(.*)( -.*)( ->.*)", replace: "$1$3"}
   - {match: "(.*)( -.*)", replace: "$1"}
+  - {match: " 03 [Premium]", replace: "# 01"}
+  - {match: " 04 [Premium]", replace: "# 02"}
   - {import: snippets/rename_node.txt}
 
   add_emoji: true
