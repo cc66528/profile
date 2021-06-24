@@ -29,6 +29,7 @@ custom:
   - {match: "(.*)( -.*)", replace: "$1"}
   - {match: " 03 \\[Premium\\]", replace: "♯ 01"}
   - {match: " 04 \\[Premium\\]", replace: "♯ 02"}
+  - {match: " 05 \\[Premium\\]", replace: "♯ 03"}
   - {import: snippets/rename_node.txt}
 
   add_emoji: false
