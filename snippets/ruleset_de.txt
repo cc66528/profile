@@ -6,7 +6,7 @@ YouTube,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/ma
 Netflix,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
 Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
 GlobalMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml
-ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/BiliBili.list
+ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 ChinaMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
 
 DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
