@@ -1,7 +1,0 @@
-Manual`select`.*
-Telegram`select`[]Manual`.*`[]DIRECT
-Netflix`select`[]Manual`.*`[]DIRECT
-YouTube`select`[]Manual`.*`[]DIRECT
-ChinaMedia`select`[]DIRECT`[]Manual`.*
-GlobalMedia`select`[]Manual`.*`[]DIRECT
-Final`select`[]Manual`[]DIRECT
