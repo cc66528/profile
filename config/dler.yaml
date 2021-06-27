@@ -27,9 +27,10 @@ custom:
   rename_node:
   # - {match: "(.*)( -.*)", replace: "$1"}
   - {match: "\\+ 0(\\d)", replace: " ♯$1"}
-  - {match: "\\+ \\[East\\]", replace: "♯E"}
-  - {match: "\\+ \\[South\\]", replace: "♯S"}
-  - {match: "\\+ \\[North\\]", replace: "♯N"}
+  - {match: "\\+ ", replace: " ♯"}
+  - {match: "\\[East\\]", replace: "E"}
+  - {match: "\\[South\\]", replace: "S"}
+  - {match: "\\[North\\]", replace: "N"}
   - {match: "\\+", replace: " ♯1"}
   # - {match: "\\[Excl\\]", replace: ""}
   # - {match: "\\[(.*)\\]", replace: "$1"}
