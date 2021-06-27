@@ -26,11 +26,12 @@ custom:
 
   rename_node:
   # - {match: "(.*)( -.*)", replace: "$1"}
-  # - {match: "\\+", replace: "♯"}
-  - {match: "\\[East\\]", replace: "东"}
-  - {match: "\\[South\\]", replace: "南"}
-  - {match: "\\[North\\]", replace: "北"}
-  - {match: "\\[Excl\\]", replace: ""}
+  - {match: "\\+", replace: " ♯1"}
+  - {match: "\\+ 0(\\d)", replace: " ♯$1"}
+  - {match: "\\+ \\[East\\]", replace: "♯E"}
+  - {match: "\\+ \\[South\\]", replace: "♯S"}
+  - {match: "\\+ \\[North\\]", replace: "♯N"}
+  # - {match: "\\[Excl\\]", replace: ""}
   # - {match: "\\[(.*)\\]", replace: "$1"}
   - {import: snippets/rename_node.txt}
 
