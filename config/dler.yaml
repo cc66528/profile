@@ -36,6 +36,7 @@ custom:
   - {match: "\\[East\\]", replace: "E"}
   - {match: "\\[South\\]", replace: "S"}
   - {match: "\\[North\\]", replace: "N"}
+  - {match: "\\[Excl\\]", replace: ""}
   # - {match: "\\[(.*)\\]", replace: "$1"}
   - {import: snippets/rename_node.txt}
 
