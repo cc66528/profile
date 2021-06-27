@@ -32,7 +32,7 @@ custom:
   - {match: "04", replace:"⁴"}
   - {match: "05", replace:"⁵"}
   - {match: "06", replace:"⁶"}
-  - {match: "(.*)\\+(.*)", replace: "$1$2♯"}
+  # - {match: "\\+", replace: "$1$2♯"}
   - {match: "\\[East\\]", replace: "E"}
   - {match: "\\[South\\]", replace: "S"}
   - {match: "\\[North\\]", replace: "N"}
