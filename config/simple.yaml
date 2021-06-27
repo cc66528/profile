@@ -23,7 +23,7 @@ custom:
 
   rename_node:
   # - {match: "(.*)( -.*)", replace: "$1"}
-  - {match: " - ", replace: ""}
+  - {match: " - ", replace: " "}
   - {match: "( \\d*) \\[Premium\\]", replace: "♯$1"}
   - {import: snippets/rename_node.txt}
 
