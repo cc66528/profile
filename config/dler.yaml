@@ -26,7 +26,7 @@ custom:
 
   rename_node:
   # - {match: "(.*)( -.*)", replace: "$1"}
-  # - {match: "\\+", replace: "$1$2♯"}
+  - {match: "(\\d*) ", replace: "$1"}
   - {match: "\\[East\\]", replace: "东"}
   - {match: "\\[South\\]", replace: "南"}
   - {match: "\\[North\\]", replace: "北"}
