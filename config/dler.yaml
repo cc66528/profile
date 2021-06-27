@@ -27,7 +27,7 @@ custom:
   rename_node:
   # - {match: "(.*)( -.*)", replace: "$1"}
   # - {match: "\\+ 0(\\d)", replace: " ♯$1"}
-  - {match: "\\+$", replace: "+ 01"}
+  - {match: "\\+$", replace: "♯ 01"}
   - {match: "East", replace: "01"}
   - {match: "South", replace: "02"}
   - {match: "West", replace: "03"}
