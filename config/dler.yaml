@@ -27,6 +27,7 @@ custom:
   rename_node:
   # - {match: "(.*)( -.*)", replace: "$1"}
   # - {match: "\\+ 0(\\d)", replace: " ♯$1"}
+  - {match: "\\[(.*)\\]", replace: "$1"}
   - {match: "\\+$", replace: "♯ 01"}
   - {match: "\\+ (\\d*)$", replace: "♯ $1"}
   - {match: "East", replace: "01"}
@@ -35,7 +36,6 @@ custom:
   - {match: "North", replace: "04"}
   # - {match: "\\+", replace: " ♯1"}
   # - {match: "\\[Excl\\]", replace: ""}
-  - {match: "\\[(.*)\\]", replace: "$1"}
   - {import: snippets/rename_node.txt}
 
   add_emoji: false
