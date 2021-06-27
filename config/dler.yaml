@@ -26,8 +26,8 @@ custom:
 
   rename_node:
   # - {match: "(.*)( -.*)", replace: "$1"}
-  - {match: " - ", replace: " "}
-  - {match: "(\\d*) \\[Premium\\]", replace: "♯$1"}
+  - {match: "\\[(.*)\\]", replace: "$1"}
+  - {match: "\\+", replace: "♯"}
   - {import: snippets/rename_node.txt}
 
   add_emoji: false
