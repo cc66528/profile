@@ -77,3 +77,6 @@ DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
+
+# >> EA DOWNLOAD
+DOMAIN,ssl-lvlt.cdn.ea.com
