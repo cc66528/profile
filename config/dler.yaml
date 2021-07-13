@@ -25,7 +25,6 @@ custom:
   surge_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/surge.conf
 
   rename_node:
-  - {match: "( - .*)", replace: ""}
   # - {match: "\\+ 0(\\d)", replace: " ♯$1"}
   - {match: "\\[(.*)\\]", replace: "$1"}
   - {match: "\\+$", replace: "♯ 01"}
@@ -36,6 +35,7 @@ custom:
   - {match: "North", replace: "04"}
   # - {match: "\\+", replace: " ♯1"}
   # - {match: "\\[Excl\\]", replace: ""}
+  - {match: "( ->.*)", replace: ""}
   - {import: snippets/rename_node.txt}
 
   add_emoji: false
