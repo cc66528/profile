@@ -33,7 +33,8 @@ dns:
       - 127.0.0.0/8
 clash-for-android:
   append-system-dns: false
-  ui-subtitle-pattern: ^.*(?:->\s)|^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
+  ui-subtitle-pattern: ^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
+#   ui-subtitle-pattern: ^.*(?:->\s)|^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
 proxies: ~
 proxy-groups: ~
 rules: ~
