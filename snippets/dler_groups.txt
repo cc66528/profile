@@ -5,9 +5,14 @@ YouTube`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
 ChinaMedia`select`[]DIRECT`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT
 GlobalMedia`select`[]Manual`[]HK`[]JP`[]SG`[]US`[]TW`[]OT`[]DIRECT
 
-HK`select`香港 AIA.*♯`香港 AIA.*\+`香港 AIA`香港 CC`香港 IEPL`香港 BGP`香港
-JP`select`日本 AIA.*♯`日本 AIA.*\+`日本 AIA`日本 CC`日本 IEPL`日本 BGP`日本
-SG`select`新加坡 AIA.*♯`新加坡 AIA.*\+`新加坡 AIA`新加坡 CC`新加坡 IEPL`新加坡 BGP`新加坡
-US`select`美国 AIA.*♯`美国 AIA.*\+`美国 AIA`美国 CC`美国 BGP`美国
-TW`select`台湾 AIA.*♯`台湾 AIA.*\+`台湾 AIA`台湾 CC`台湾 BGP`台湾
+;HK`select`香港 AIA.*♯`香港 AIA.*\+`香港 AIA`香港 CC`香港 IEPL`香港 BGP`香港
+;JP`select`日本 AIA.*♯`日本 AIA.*\+`日本 AIA`日本 CC`日本 IEPL`日本 BGP`日本
+;SG`select`新加坡 AIA.*♯`新加坡 AIA.*\+`新加坡 AIA`新加坡 CC`新加坡 IEPL`新加坡 BGP`新加坡
+;US`select`美国 AIA.*♯`美国 AIA.*\+`美国 AIA`美国 CC`美国 BGP`美国
+;TW`select`台湾 AIA.*♯`台湾 AIA.*\+`台湾 AIA`台湾 CC`台湾 BGP`台湾
+HK`select`香港
+JP`select`日本
+SG`select`新加坡
+US`select`美国
+TW`select`台湾
 OT`select`^(?!.*(香港|台湾|新加坡|日本|美国)).*$
