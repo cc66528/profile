@@ -38,5 +38,5 @@ custom:
   - {match: "(.*)( -.*)", replace: "$1"}
   - {import: snippets/rename_node.txt}
 
-  add_emoji: true
+  add_emoji: false
   remove_old_emoji: true
