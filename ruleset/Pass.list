@@ -19,9 +19,6 @@ DOMAIN,snapdrop.net
 # >> ACM
 DOMAIN,dl.acm.org
 
-# >> EPUBEE
-DOMAIN-SUFFIX,epubee.com
-
 # > Google
 # DOMAIN-SUFFIX,blog.google
 # DOMAIN-SUFFIX,googletraveladservices.com
