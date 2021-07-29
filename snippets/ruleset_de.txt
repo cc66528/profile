@@ -4,18 +4,14 @@ Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/
 YouTube,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
 YouTube,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
 YouTube,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/google.list
+
 Netflix,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
 Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
+
 GlobalMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml
+
 ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 ChinaMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
 
-;DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
-;Manual,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
-Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
 Telegram,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml
-
-;Manual,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Global.yaml
-;DIRECT,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/China.yaml
-;DIRECT,surge:https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
-;DIRECT,clash-ipcidr:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
+Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
