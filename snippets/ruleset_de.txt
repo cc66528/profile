@@ -15,3 +15,4 @@ GlobalMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profile
 ChinaMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
 ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 
+DIRECT,clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
