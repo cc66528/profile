@@ -12,7 +12,7 @@ custom:
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de_2.txt"}
   {% endif %}
   
-  - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}
+  # - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}
   - {rule: "FINAL", group: "Manual"}
   
   clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
