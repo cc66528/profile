@@ -5,8 +5,6 @@ custom:
   proxy_groups:
   {% if default(request.group, "") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple_groups.txt"}
-  {% else if default(request.relay, "") == "1" %}
-  - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups_relay.txt"}
   {% else %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups.txt"}
   {% endif %}
@@ -18,7 +16,7 @@ custom:
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de_2.txt"}
   {% endif %}
   
-  - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}
+  # - {ruleset: "clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml", group: "DIRECT", interval: 86400}
   - {rule: "FINAL", group: "Manual"}
   
   clash_rule_base: https://raw.githubusercontent.com/hardy-one/profile/master/base/clash.yaml
