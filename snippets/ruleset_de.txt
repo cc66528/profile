@@ -8,10 +8,11 @@ YouTube,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/ma
 YouTube,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
 YouTube,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
 
+Netflix,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 Netflix,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/Netflix.yaml
-Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
 
-GlobalMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Streaming.yaml
+GlobalMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
 ChinaMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
 ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 
+DIRECT,clash-ipcidr:https://raw.fastgit.org/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
