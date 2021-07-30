@@ -1,6 +1,9 @@
 DIRECT,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Pass.list
 Manual,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/ProxyList.list
 
+Telegram,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml
+Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
+
 YouTube,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Video/YouTube.yaml
 YouTube,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/Music/YouTubeMusic.yaml
 YouTube,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
@@ -12,5 +15,3 @@ GlobalMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profile
 ChinaMedia,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
 ChinaMedia,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/BiliBili.list
 
-Telegram,clash-classic:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Telegram/Telegram.yaml
-Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
