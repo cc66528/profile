@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,blog.google // Google Blog
 DOMAIN-SUFFIX,googletraveladservices.com // Google Flights
 
-# DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,google.co
 # DOMAIN-KEYWORD,.blogspot.
 
 # > Google
