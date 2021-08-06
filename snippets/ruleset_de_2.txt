@@ -5,7 +5,7 @@ Telegram,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Su
 Telegram,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/process_name/TelegramProc.list
 
 YouTube,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/YouTube.list
-YouTube,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
+;YouTube,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Google.list
 Netflix,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Netflix.list
 Netflix,surge:https://raw.githubusercontent.com/hardy-one/profile/master/ruleset/Fast.list
 GlobalMedia,surge:https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list
