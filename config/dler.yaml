@@ -10,7 +10,7 @@ custom:
   {% endif %}
   
   rulesets:
-  {% if default(request.ruleset,"") == "1" %}
+  {% if default(request.ruleset, "1") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de.txt"}
   {% else if request.ruleset == "test" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_test.txt"}
