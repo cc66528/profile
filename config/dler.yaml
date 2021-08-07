@@ -3,17 +3,15 @@ custom:
   overwrite_original_rules: true
 
   proxy_groups:
-  {% if default(request.group, "0") == "1" %}
+  {% if default(request.group, "") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/simple_groups.txt"}
   {% else %}
   - {import: "https://raw.githubusercontent.com/hardy-one/prefini/master/snippets/dler_groups.txt"}
   {% endif %}
   
   rulesets:
-  {% if default(request.ruleset, "0") == "1" %}
+  {% if default(request.ruleset, "") == "1" %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de_2.txt"}
-  {% else if request.ruleset == "test" %}
-  - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_test.txt"}
   {% else %}
   - {import: "https://raw.githubusercontent.com/hardy-one/profile/master/snippets/ruleset_de.txt"}
   {% endif %}
