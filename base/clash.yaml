@@ -7,6 +7,10 @@ log-level: info
 external-controller: :9090
 experimental:
   ignore-resolve-fail: true
+hosts:
+  # '*.clash.dev': 127.0.0.1
+  # '.dev': 127.0.0.1
+  # 'alpha.clash.dev': '::1'
 profile:
   store-selected: true
   tracing: false
@@ -17,6 +21,7 @@ dns:
   - 223.6.6.6
   ipv6: false
   enhanced-mode: redir-host
+  use-hosts: true
   nameserver:
   - 223.6.6.6
   - dns.rubyfish.cn
@@ -31,6 +36,9 @@ dns:
     ipcidr:
       - 0.0.0.0/8
       - 127.0.0.0/8
+  nameserver-policy:
+  #   'www.baidu.com': '114.114.114.114'
+  #   '+.internal.crop.com': '10.0.0.1'
 clash-for-android:
   append-system-dns: false
   ui-subtitle-pattern: ^(\\U|\\u.{8})+?\s.*?\s|^.*?\s
